@@ -109,18 +109,23 @@ def save_daily_report(new_projects: list, date_str: str):
 
 
 def generate_readme(projects: dict):
-    """生成 README.md"""
+    """生成 README.md（含增长数据和质量评分）"""
+    proj_list = list(projects.values())
+
     # 按分类整理
     categorized = {}
-    for p in projects.values():
+    for p in proj_list:
         cat = p.get("category", "Agent 框架")
         categorized.setdefault(cat, []).append(p)
 
-    # 每个分类按 stars 降序
+    # 每个分类按质量评分降序，其次按 stars
     for cat in categorized:
-        categorized[cat].sort(key=lambda x: x.get("stars", 0), reverse=True)
+        categorized[cat].sort(
+            key=lambda x: (x.get("quality_score", 0), x.get("stars", 0)),
+            reverse=True,
+        )
 
-    # 分类图标
+    # 分类图标和顺序
     icons = {
         "Hermes / OpenClaw 生态": "🦊",
         "Agent 框架": "🏗️",
@@ -128,8 +133,6 @@ def generate_readme(projects: dict):
         "AI 工作流 / 自动化": "⚡",
         "多模态 Agent": "🎯",
     }
-
-    # 分类顺序
     order = [
         "Hermes / OpenClaw 生态",
         "Agent 框架",
@@ -138,42 +141,80 @@ def generate_readme(projects: dict):
         "多模态 Agent",
     ]
 
+    now_str = datetime.now(timezone(timedelta(hours=8))).strftime('%Y-%m-%d %H:%M')
+
     lines = [
         "# 🤖 Awesome AI Digital Workers\n",
         "> AI Agent / 数字员工相关优秀开源项目收集整理",
         "> ",
-        "> 每日由 GitHub Actions 自动检索更新",
+        "> 每日由 GitHub Actions 自动检索 + 增长监控 + 社媒热度分析",
         f"> ",
-        f"> 📊 共收录 **{len(projects)}** 个项目 | 🕐 最后更新: {datetime.now(timezone(timedelta(hours=8))).strftime('%Y-%m-%d %H:%M')} CST\n",
+        f"> 📊 共收录 **{len(proj_list)}** 个项目 | 🕐 最后更新: {now_str} CST\n",
         "---\n",
     ]
 
+    # 🏆 增长排行榜（如果有增长数据）
+    ranked = [p for p in proj_list if p.get("quality_score")]
+    if ranked:
+        ranked.sort(key=lambda x: x.get("quality_score", 0), reverse=True)
+        lines.append("## 🏆 质量排行 Top 10\n")
+        lines.append("| # | 项目 | 评分 | ⭐ Stars | 📈 周增 | 🔨 周Commit | 📄 License | 趋势 |")
+        lines.append("|---|------|------|---------|--------|------------|-----------|------|")
+        for i, p in enumerate(ranked[:10], 1):
+            g = p.get("growth", {})
+            lines.append(
+                f"| {i} | [{p['name']}]({p['url']}) | {p.get('quality_score', 0)} | "
+                f"{p.get('stars', 0):,} | +{g.get('weekly', 0)} | "
+                f"{p.get('commits_7d', '-')} | {p.get('license', '?')} | "
+                f"{g.get('trend', '?')} |"
+            )
+        lines.append("")
+
+    # 🔥 高增长预警
+    fast_growing = [p for p in proj_list if p.get("growth", {}).get("weekly", 0) > 50]
+    if fast_growing:
+        fast_growing.sort(key=lambda x: x["growth"]["weekly"], reverse=True)
+        lines.append("## 🔥 高增长项目\n")
+        for p in fast_growing[:5]:
+            g = p["growth"]
+            lines.append(
+                f"- **[{p['name']}]({p['url']})** — "
+                f"周增 +{g['weekly']} ⭐ (日均 +{g['daily']}) "
+                f"{g.get('trend', '')}"
+            )
+        lines.append("")
+
+    lines.append("---\n")
+
+    # 分类列表
     for cat in order:
         repos = categorized.get(cat, [])
         if not repos:
             continue
         icon = icons.get(cat, "📦")
         lines.append(f"## {icon} {cat}\n")
-        lines.append("| 项目 | ⭐ Stars | 语言 | 简介 | 发现日期 |")
-        lines.append("|------|---------|------|------|----------|")
+        lines.append("| 项目 | ⭐ Stars | 📈 周增 | 评分 | 语言 | License | 简介 | 发现日期 |")
+        lines.append("|------|---------|--------|------|------|---------|------|----------|")
         for r in repos:
-            name = r.get("name", "")
-            url = r.get("url", "")
-            stars = f"{r.get('stars', 0):,}"
-            lang = r.get("language", "-") or "-"
-            desc = (r.get("description", "") or "")[:120]
-            date = r.get("discovered", "")
-            lines.append(f"| [{name}]({url}) | {stars} | {lang} | {desc} | {date} |")
+            g = r.get("growth", {})
+            weekly = f"+{g['weekly']}" if g.get("weekly") else "-"
+            score = r.get("quality_score", "-")
+            desc = (r.get("description", "") or "")[:100]
+            lines.append(
+                f"| [{r['name']}]({r['url']}) | {r.get('stars', 0):,} | {weekly} | "
+                f"{score} | {r.get('language', '-') or '-'} | "
+                f"{r.get('license', '?')} | {desc} | {r.get('discovered', '')} |"
+            )
         lines.append("")
 
-    # 读取更新日志（保留历史）
-    if os.path.exists(os.path.join(DAILY_DIR)):
+    # 更新日志
+    if os.path.exists(DAILY_DIR):
         lines.append("---\n")
         lines.append("## 📝 最近更新\n")
         daily_files = sorted(
             [f for f in os.listdir(DAILY_DIR) if f.endswith(".json")],
-            reverse=True
-        )[:7]  # 最近 7 天
+            reverse=True,
+        )[:7]
         for df in daily_files:
             date = df.replace(".json", "")
             with open(os.path.join(DAILY_DIR, df), "r", encoding="utf-8") as f:
@@ -181,11 +222,14 @@ def generate_readme(projects: dict):
             if day_projects:
                 lines.append(f"### {date}")
                 for p in day_projects:
-                    lines.append(f"- [{p['name']}]({p['url']}) ⭐{p.get('stars', 0):,} — {(p.get('description', '') or '')[:80]}")
+                    lines.append(
+                        f"- [{p['name']}]({p['url']}) ⭐{p.get('stars', 0):,} — "
+                        f"{(p.get('description', '') or '')[:80]}"
+                    )
                 lines.append("")
 
     lines.append("---\n")
-    lines.append("*由 GitHub Actions 每日自动检索维护 🌙*\n")
+    lines.append("*由 GitHub Actions 每日自动检索 + 增长监控 + 社媒热度分析 🌙*\n")
 
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
