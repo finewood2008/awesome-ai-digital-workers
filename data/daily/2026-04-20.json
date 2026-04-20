@@ -1,0 +1,20 @@
+[
+  {"name": "cherry-studio", "url": "https://github.com/CherryHQ/cherry-studio", "stars": 43888, "description": "🍒 全能 LLM 桌面客户端"},
+  {"name": "CowAgent", "url": "https://github.com/zhayujie/CowAgent", "stars": 43545, "description": "基于大模型的超级AI助理，企业数字员工"},
+  {"name": "nanobot", "url": "https://github.com/HKUDS/nanobot", "stars": 40179, "description": "超轻量个人AI Agent"},
+  {"name": "airi", "url": "https://github.com/moeru-ai/airi", "stars": 38395, "description": "自托管AI伙伴，支持实时语音+游戏"},
+  {"name": "Upsonic", "url": "https://github.com/Upsonic/Upsonic", "stars": 7833, "description": "Python自主AI Agent构建框架"},
+  {"name": "OpenShell", "url": "https://github.com/NVIDIA/OpenShell", "stars": 5113, "description": "NVIDIA出品：AI Agent安全运行时"},
+  {"name": "ralph-orchestrator", "url": "https://github.com/mikeyobrien/ralph-orchestrator", "stars": 2735, "description": "自主AI Agent编排框架"},
+  {"name": "clawpanel", "url": "https://github.com/qingchencloud/clawpanel", "stars": 2445, "description": "OpenClaw & Hermes多引擎管理面板"},
+  {"name": "hermes-agent-self-evolution", "url": "https://github.com/NousResearch/hermes-agent-self-evolution", "stars": 1973, "description": "Hermes Agent进化式自我改进"},
+  {"name": "yomo", "url": "https://github.com/yomorun/yomo", "stars": 1899, "description": "Serverless AI Agent框架+边缘AI"},
+  {"name": "hermes-workspace", "url": "https://github.com/outsourc-e/hermes-workspace", "stars": 1674, "description": "Hermes Agent原生Web工作台"},
+  {"name": "awesome-hermes-agent", "url": "https://github.com/0xNyk/awesome-hermes-agent", "stars": 1480, "description": "Hermes Agent精选资源列表"},
+  {"name": "hermes-web-ui", "url": "https://github.com/EKKOLearnAI/hermes-web-ui", "stars": 1182, "description": "Hermes Agent Web管理面板"},
+  {"name": "LightAgent", "url": "https://github.com/wanxingai/LightAgent", "stars": 869, "description": "轻量AI Agent框架+MCP/SSE集成"},
+  {"name": "connectonion", "url": "https://github.com/openonion/connectonion", "stars": 855, "description": "Agent协作框架"},
+  {"name": "heurist-agent-framework", "url": "https://github.com/heurist-network/heurist-agent-framework", "stars": 797, "description": "多接口AI Agent框架"},
+  {"name": "codegate", "url": "https://github.com/stacklok/codegate", "stars": 793, "description": "AI Agent安全网关"},
+  {"name": "agent-factory", "url": "https://github.com/shuanbao0/agent-factory", "stars": 8, "description": "内置OpenClaw引擎的多Agent团队"}
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "name": "cherry-studio",
+    "url": "https://github.com/CherryHQ/cherry-studio",
+    "owner": "CherryHQ",
+    "description": "🍒 全能 LLM 桌面客户端，支持多模型提供商，开放访问前沿大模型",
+    "stars": 43888,
+    "language": "TypeScript",
+    "topics": [],
+    "discovered": "2026-04-20",
+    "category": "Hermes / OpenClaw 生态"
+  },
+  {
+    "name": "CowAgent",
+    "url": "https://github.com/zhayujie/CowAgent",
+    "owner": "zhayujie",
+    "description": "基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长。支持微信/飞书/钉钉/企微/QQ/公众号/网页等接入，可快速搭建个人AI助理和企业数字员工",
+    "stars": 43545,
+    "language": "Python",
+    "topics": [],
+    "discovered": "2026-04-20",
+    "category": "数字员工 / RPA + AI"
+  },
+  {
+    "name": "nanobot",
+    "url": "https://github.com/HKUDS/nanobot",
+    "owner": "HKUDS",
+    "description": "🐈 nanobot: The Ultra-Lightweight Personal AI Agent",
+    "stars": 40179,
+    "language": "",
+    "topics": [],
+    "discovered": "2026-04-20",
+    "category": "Agent 框架"
+  },
+  {
+    "name": "airi",
+    "url": "https://github.com/moeru-ai/airi",
+    "owner": "moeru-ai",
+    "description": "💖🧸 Self hosted AI Companion, capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "stars": 38395,
+    "language": "",
+    "topics": [],
+    "discovered": "2026-04-20",
+    "category": "多模态 Agent"
+  },
+  {
+    "name": "Upsonic",
+    "url": "https://github.com/Upsonic/Upsonic",
+    "owner": "Upsonic",
+    "description": "Build autonomous AI agents in Python.",
+    "stars": 7833,
+    "language": "Python",
+    "topics": [],
+    "discovered": "2026-04-20",
+    "category": "Agent 框架"
+  },
+  {
+    "name": "OpenShell",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "owner": "NVIDIA",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "stars": 5113,
+    "language": "",
+    "topics": [],
+    "discovered": "2026-04-20",
+    "category": "AI 工作流 / 自动化"
+  },
+  {
+    "name": "ralph-orchestrator",
+    "url": "https://github.com/mikeyobrien/ralph-orchestrator",
+    "owner": "mikeyobrien",
+    "description": "An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration",
+    "stars": 2735,
+    "language": "",
+    "topics": [],
+    "discovered": "2026-04-20",
+    "category": "AI 工作流 / 自动化"
+  },
+  {
+    "name": "clawpanel",
+    "url": "https://github.com/qingchencloud/clawpanel",
+    "owner": "qingchencloud",
+    "description": "🦞 OpenClaw & Hermes Agent 多引擎 AI 管理面板 — 内置 AI 助手（工具调用+图片识别+多模态），一键安装 | Tauri v2 跨平台桌面应用 | 11 种语言",
+    "stars": 2445,
+    "language": "",
+    "topics": [],
+    "discovered": "2026-04-20",
+    "category": "Hermes / OpenClaw 生态"
+  },
+  {
+    "name": "hermes-agent-self-evolution",
+    "url": "https://github.com/NousResearch/hermes-agent-self-evolution",
+    "owner": "NousResearch",
+    "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA",
+    "stars": 1973,
+    "language": "",
+    "topics": [],
+    "discovered": "2026-04-20",
+    "category": "Hermes / OpenClaw 生态"
+  },
+  {
+    "name": "yomo",
+    "url": "https://github.com/yomorun/yomo",
+    "owner": "yomorun",
+    "description": "🦖 Serverless AI Agent Framework with Geo-distributed Edge AI Infra.",
+    "stars": 1899,
+    "language": "Go",
+    "topics": [],
+    "discovered": "2026-04-20",
+    "category": "Agent 框架"
+  },
+  {
+    "name": "hermes-workspace",
+    "url": "https://github.com/outsourc-e/hermes-workspace",
+    "owner": "outsourc-e",
+    "description": "Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.",
+    "stars": 1674,
+    "language": "",
+    "topics": [],
+    "discovered": "2026-04-20",
+    "category": "Hermes / OpenClaw 生态"
+  },
+  {
+    "name": "awesome-hermes-agent",
+    "url": "https://github.com/0xNyk/awesome-hermes-agent",
+    "owner": "0xNyk",
+    "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
+    "stars": 1480,
+    "language": "",
+    "topics": [],
+    "discovered": "2026-04-20",
+    "category": "Hermes / OpenClaw 生态"
+  },
+  {
+    "name": "hermes-web-ui",
+    "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+    "owner": "EKKOLearnAI",
+    "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration",
+    "stars": 1182,
+    "language": "",
+    "topics": [],
+    "discovered": "2026-04-20",
+    "category": "Hermes / OpenClaw 生态"
+  },
+  {
+    "name": "LightAgent",
+    "url": "https://github.com/wanxingai/LightAgent",
+    "owner": "wanxingai",
+    "description": "LightAgent: Lightweight AI agent framework with memory, tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs. Open-source with MCP/SSE protocol integration.",
+    "stars": 869,
+    "language": "",
+    "topics": [],
+    "discovered": "2026-04-20",
+    "category": "Agent 框架"
+  },
+  {
+    "name": "connectonion",
+    "url": "https://github.com/openonion/connectonion",
+    "owner": "openonion",
+    "description": "The Best AI Agent Framework for Agent Collaboration.",
+    "stars": 855,
+    "language": "",
+    "topics": [],
+    "discovered": "2026-04-20",
+    "category": "Agent 框架"
+  },
+  {
+    "name": "heurist-agent-framework",
+    "url": "https://github.com/heurist-network/heurist-agent-framework",
+    "owner": "heurist-network",
+    "description": "A flexible multi-interface AI agent framework for building agents with reasoning, tool use, memory, deep research, blockchain interaction, MCP, and agents-as-a-service.",
+    "stars": 797,
+    "language": "",
+    "topics": [],
+    "discovered": "2026-04-20",
+    "category": "Agent 框架"
+  },
+  {
+    "name": "codegate",
+    "url": "https://github.com/stacklok/codegate",
+    "owner": "stacklok",
+    "description": "CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks",
+    "stars": 793,
+    "language": "",
+    "topics": [],
+    "discovered": "2026-04-20",
+    "category": "AI 工作流 / 自动化"
+  },
+  {
+    "name": "agent-factory",
+    "url": "https://github.com/shuanbao0/agent-factory",
+    "owner": "shuanbao0",
+    "description": "AI Employee Factory — Self-contained multi-agent team with built-in OpenClaw engine",
+    "stars": 8,
+    "language": "",
+    "topics": [],
+    "discovered": "2026-04-20",
+    "category": "Hermes / OpenClaw 生态"
+  }
+]
