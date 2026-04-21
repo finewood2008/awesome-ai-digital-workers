@@ -5,6 +5,12 @@
       "stars": 43893,
       "forks": 4138,
       "commits_7d": 21
+    },
+    {
+      "date": "2026-04-21",
+      "stars": 43927,
+      "forks": 4142,
+      "commits_7d": 21
     }
   ],
   "https://github.com/zhayujie/CowAgent": [
@@ -13,6 +19,12 @@
       "stars": 43545,
       "forks": 9960,
       "commits_7d": 31
+    },
+    {
+      "date": "2026-04-21",
+      "stars": 43564,
+      "forks": 9962,
+      "commits_7d": 28
     }
   ],
   "https://github.com/HKUDS/nanobot": [
@@ -20,6 +32,12 @@
       "date": "2026-04-20",
       "stars": 40181,
       "forks": 7069,
+      "commits_7d": 100
+    },
+    {
+      "date": "2026-04-21",
+      "stars": 40261,
+      "forks": 7088,
       "commits_7d": 100
     }
   ],
@@ -29,12 +47,24 @@
       "stars": 38395,
       "forks": 3882,
       "commits_7d": 55
+    },
+    {
+      "date": "2026-04-21",
+      "stars": 38419,
+      "forks": 3881,
+      "commits_7d": 47
     }
   ],
   "https://github.com/Upsonic/Upsonic": [
     {
       "date": "2026-04-20",
       "stars": 7833,
+      "forks": 728,
+      "commits_7d": 6
+    },
+    {
+      "date": "2026-04-21",
+      "stars": 7834,
       "forks": 728,
       "commits_7d": 6
     }
@@ -45,12 +75,24 @@
       "stars": 5114,
       "forks": 552,
       "commits_7d": 26
+    },
+    {
+      "date": "2026-04-21",
+      "stars": 5153,
+      "forks": 558,
+      "commits_7d": 24
     }
   ],
   "https://github.com/mikeyobrien/ralph-orchestrator": [
     {
       "date": "2026-04-20",
       "stars": 2735,
+      "forks": 250,
+      "commits_7d": 2
+    },
+    {
+      "date": "2026-04-21",
+      "stars": 2739,
       "forks": 250,
       "commits_7d": 2
     }
@@ -61,6 +103,12 @@
       "stars": 2445,
       "forks": 314,
       "commits_7d": 24
+    },
+    {
+      "date": "2026-04-21",
+      "stars": 2450,
+      "forks": 316,
+      "commits_7d": 24
     }
   ],
   "https://github.com/NousResearch/hermes-agent-self-evolution": [
@@ -69,11 +117,23 @@
       "stars": 1974,
       "forks": 194,
       "commits_7d": 0
+    },
+    {
+      "date": "2026-04-21",
+      "stars": 1996,
+      "forks": 197,
+      "commits_7d": 0
     }
   ],
   "https://github.com/yomorun/yomo": [
     {
       "date": "2026-04-20",
+      "stars": 1899,
+      "forks": 143,
+      "commits_7d": 1
+    },
+    {
+      "date": "2026-04-21",
       "stars": 1899,
       "forks": 143,
       "commits_7d": 1
@@ -85,6 +145,12 @@
       "stars": 1679,
       "forks": 195,
       "commits_7d": 75
+    },
+    {
+      "date": "2026-04-21",
+      "stars": 1799,
+      "forks": 210,
+      "commits_7d": 94
     }
   ],
   "https://github.com/0xNyk/awesome-hermes-agent": [
@@ -92,6 +158,12 @@
       "date": "2026-04-20",
       "stars": 1483,
       "forks": 100,
+      "commits_7d": 0
+    },
+    {
+      "date": "2026-04-21",
+      "stars": 1504,
+      "forks": 103,
       "commits_7d": 0
     }
   ],
@@ -101,12 +173,24 @@
       "stars": 1187,
       "forks": 140,
       "commits_7d": 97
+    },
+    {
+      "date": "2026-04-21",
+      "stars": 1282,
+      "forks": 151,
+      "commits_7d": 94
     }
   ],
   "https://github.com/wanxingai/LightAgent": [
     {
       "date": "2026-04-20",
       "stars": 869,
+      "forks": 118,
+      "commits_7d": 0
+    },
+    {
+      "date": "2026-04-21",
+      "stars": 873,
       "forks": 118,
       "commits_7d": 0
     }
@@ -117,12 +201,24 @@
       "stars": 855,
       "forks": 114,
       "commits_7d": 1
+    },
+    {
+      "date": "2026-04-21",
+      "stars": 860,
+      "forks": 115,
+      "commits_7d": 1
     }
   ],
   "https://github.com/heurist-network/heurist-agent-framework": [
     {
       "date": "2026-04-20",
       "stars": 797,
+      "forks": 78,
+      "commits_7d": 0
+    },
+    {
+      "date": "2026-04-21",
+      "stars": 798,
       "forks": 78,
       "commits_7d": 0
     }
@@ -133,12 +229,24 @@
       "stars": 793,
       "forks": 90,
       "commits_7d": 0
+    },
+    {
+      "date": "2026-04-21",
+      "stars": 784,
+      "forks": 90,
+      "commits_7d": 0
     }
   ],
   "https://github.com/shuanbao0/agent-factory": [
     {
       "date": "2026-04-20",
       "stars": 8,
+      "forks": 3,
+      "commits_7d": 0
+    },
+    {
+      "date": "2026-04-21",
+      "stars": 9,
       "forks": 3,
       "commits_7d": 0
     }

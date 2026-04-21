@@ -1,0 +1,67 @@
+[
+  {
+    "name": "cherry-studio",
+    "url": "https://github.com/CherryHQ/cherry-studio",
+    "stars": 43927,
+    "growth": {
+      "daily": 34,
+      "weekly": 238,
+      "monthly": 952,
+      "trend": "📈 fast"
+    },
+    "score": 85,
+    "reason": "星星增速异常：日+34，周+238"
+  },
+  {
+    "name": "nanobot",
+    "url": "https://github.com/HKUDS/nanobot",
+    "stars": 40261,
+    "growth": {
+      "daily": 80,
+      "weekly": 560,
+      "monthly": 2240,
+      "trend": "🚀 explosive"
+    },
+    "score": 99,
+    "reason": "星星增速异常：日+80，周+560"
+  },
+  {
+    "name": "OpenShell",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "stars": 5153,
+    "growth": {
+      "daily": 39,
+      "weekly": 273,
+      "monthly": 1092,
+      "trend": "📈 fast"
+    },
+    "score": 81,
+    "reason": "星星增速异常：日+39，周+273"
+  },
+  {
+    "name": "hermes-workspace",
+    "url": "https://github.com/outsourc-e/hermes-workspace",
+    "stars": 1799,
+    "growth": {
+      "daily": 120,
+      "weekly": 840,
+      "monthly": 3360,
+      "trend": "🚀 explosive"
+    },
+    "score": 88,
+    "reason": "星星增速异常：日+120，周+840"
+  },
+  {
+    "name": "hermes-web-ui",
+    "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+    "stars": 1282,
+    "growth": {
+      "daily": 95,
+      "weekly": 665,
+      "monthly": 2660,
+      "trend": "🚀 explosive"
+    },
+    "score": 88,
+    "reason": "星星增速异常：日+95，周+665"
+  }
+]

@@ -1,26 +1,26 @@
 [
   {
-    "title": "OpenClaw isn't fooling me. I remember MS-DOS",
-    "url": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
-    "points": 139,
-    "comments": 164,
+    "title": "Show HN: Palmier – bridge your AI agents and your phone",
+    "url": "https://github.com/caihongxu/palmier",
+    "points": 2,
+    "comments": 0,
+    "date": "2026-04-21",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Show HN: I built Comrade – the security-focused AI agent",
+    "url": "https://news.ycombinator.com/item?id=47839520",
+    "points": 5,
+    "comments": 2,
     "date": "2026-04-20",
     "source": "HackerNews"
   },
   {
-    "title": "Ask HN: May be a basic question, but how can I use AI well?",
-    "url": "https://news.ycombinator.com/item?id=47822787",
-    "points": 8,
-    "comments": 1,
-    "date": "2026-04-19",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Show HN: Mac-computer-use, an open-source clone of Codex Computer Use",
-    "url": "https://github.com/TheGuyWithoutH/mac-computer-use",
-    "points": 4,
+    "title": "Show HN: The Trawl CLI, trudge through agent harness logs for shit and giggles",
+    "url": "https://the-daily-claude.github.io/the-daily-claude/",
+    "points": 1,
     "comments": 0,
-    "date": "2026-04-19",
+    "date": "2026-04-20",
     "source": "HackerNews"
   },
   {
@@ -42,8 +42,8 @@
   {
     "title": "Show HN: Stage – Putting humans back in control of code review",
     "url": "https://stagereview.app/",
-    "points": 129,
-    "comments": 108,
+    "points": 130,
+    "comments": 110,
     "date": "2026-04-16",
     "source": "HackerNews"
   },
