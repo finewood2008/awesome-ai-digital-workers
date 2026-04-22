@@ -11,6 +11,12 @@
       "stars": 43927,
       "forks": 4142,
       "commits_7d": 21
+    },
+    {
+      "date": "2026-04-22",
+      "stars": 44013,
+      "forks": 4155,
+      "commits_7d": 20
     }
   ],
   "https://github.com/zhayujie/CowAgent": [
@@ -25,6 +31,12 @@
       "stars": 43564,
       "forks": 9962,
       "commits_7d": 28
+    },
+    {
+      "date": "2026-04-22",
+      "stars": 43607,
+      "forks": 9966,
+      "commits_7d": 23
     }
   ],
   "https://github.com/HKUDS/nanobot": [
@@ -38,6 +50,12 @@
       "date": "2026-04-21",
       "stars": 40261,
       "forks": 7088,
+      "commits_7d": 100
+    },
+    {
+      "date": "2026-04-22",
+      "stars": 40429,
+      "forks": 7112,
       "commits_7d": 100
     }
   ],
@@ -53,6 +71,12 @@
       "stars": 38419,
       "forks": 3881,
       "commits_7d": 47
+    },
+    {
+      "date": "2026-04-22",
+      "stars": 38461,
+      "forks": 3884,
+      "commits_7d": 43
     }
   ],
   "https://github.com/Upsonic/Upsonic": [
@@ -67,6 +91,12 @@
       "stars": 7834,
       "forks": 728,
       "commits_7d": 6
+    },
+    {
+      "date": "2026-04-22",
+      "stars": 7835,
+      "forks": 728,
+      "commits_7d": 5
     }
   ],
   "https://github.com/NVIDIA/OpenShell": [
@@ -81,6 +111,12 @@
       "stars": 5153,
       "forks": 558,
       "commits_7d": 24
+    },
+    {
+      "date": "2026-04-22",
+      "stars": 5208,
+      "forks": 567,
+      "commits_7d": 27
     }
   ],
   "https://github.com/mikeyobrien/ralph-orchestrator": [
@@ -95,6 +131,12 @@
       "stars": 2739,
       "forks": 250,
       "commits_7d": 2
+    },
+    {
+      "date": "2026-04-22",
+      "stars": 2746,
+      "forks": 251,
+      "commits_7d": 0
     }
   ],
   "https://github.com/qingchencloud/clawpanel": [
@@ -109,6 +151,12 @@
       "stars": 2450,
       "forks": 316,
       "commits_7d": 24
+    },
+    {
+      "date": "2026-04-22",
+      "stars": 2465,
+      "forks": 318,
+      "commits_7d": 25
     }
   ],
   "https://github.com/NousResearch/hermes-agent-self-evolution": [
@@ -123,6 +171,12 @@
       "stars": 1996,
       "forks": 197,
       "commits_7d": 0
+    },
+    {
+      "date": "2026-04-22",
+      "stars": 2064,
+      "forks": 202,
+      "commits_7d": 0
     }
   ],
   "https://github.com/yomorun/yomo": [
@@ -134,6 +188,12 @@
     },
     {
       "date": "2026-04-21",
+      "stars": 1899,
+      "forks": 143,
+      "commits_7d": 1
+    },
+    {
+      "date": "2026-04-22",
       "stars": 1899,
       "forks": 143,
       "commits_7d": 1
@@ -151,6 +211,12 @@
       "stars": 1799,
       "forks": 210,
       "commits_7d": 94
+    },
+    {
+      "date": "2026-04-22",
+      "stars": 1997,
+      "forks": 227,
+      "commits_7d": 80
     }
   ],
   "https://github.com/0xNyk/awesome-hermes-agent": [
@@ -165,6 +231,12 @@
       "stars": 1504,
       "forks": 103,
       "commits_7d": 0
+    },
+    {
+      "date": "2026-04-22",
+      "stars": 1576,
+      "forks": 110,
+      "commits_7d": 11
     }
   ],
   "https://github.com/EKKOLearnAI/hermes-web-ui": [
@@ -179,6 +251,12 @@
       "stars": 1282,
       "forks": 151,
       "commits_7d": 94
+    },
+    {
+      "date": "2026-04-22",
+      "stars": 1461,
+      "forks": 175,
+      "commits_7d": 93
     }
   ],
   "https://github.com/wanxingai/LightAgent": [
@@ -191,6 +269,12 @@
     {
       "date": "2026-04-21",
       "stars": 873,
+      "forks": 118,
+      "commits_7d": 0
+    },
+    {
+      "date": "2026-04-22",
+      "stars": 877,
       "forks": 118,
       "commits_7d": 0
     }
@@ -207,6 +291,12 @@
       "stars": 860,
       "forks": 115,
       "commits_7d": 1
+    },
+    {
+      "date": "2026-04-22",
+      "stars": 866,
+      "forks": 118,
+      "commits_7d": 1
     }
   ],
   "https://github.com/heurist-network/heurist-agent-framework": [
@@ -221,6 +311,12 @@
       "stars": 798,
       "forks": 78,
       "commits_7d": 0
+    },
+    {
+      "date": "2026-04-22",
+      "stars": 798,
+      "forks": 78,
+      "commits_7d": 1
     }
   ],
   "https://github.com/stacklok/codegate": [
@@ -235,6 +331,12 @@
       "stars": 784,
       "forks": 90,
       "commits_7d": 0
+    },
+    {
+      "date": "2026-04-22",
+      "stars": 784,
+      "forks": 90,
+      "commits_7d": 0
     }
   ],
   "https://github.com/shuanbao0/agent-factory": [
@@ -246,6 +348,12 @@
     },
     {
       "date": "2026-04-21",
+      "stars": 9,
+      "forks": 3,
+      "commits_7d": 0
+    },
+    {
+      "date": "2026-04-22",
       "stars": 9,
       "forks": 3,
       "commits_7d": 0

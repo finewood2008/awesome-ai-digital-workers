@@ -1,26 +1,26 @@
 [
   {
-    "title": "Show HN: Palmier – bridge your AI agents and your phone",
-    "url": "https://github.com/caihongxu/palmier",
+    "title": "Ravix – An AI agent that runs on your Claude Code subscription (alpha)",
+    "url": "https://news.ycombinator.com/item?id=47856900",
     "points": 2,
     "comments": 0,
+    "date": "2026-04-22",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Show HN: FlirtingBots – My AI agent flirts with yours, we meet if it clicks",
+    "url": "https://flirtingbots.com/",
+    "points": 3,
+    "comments": 2,
     "date": "2026-04-21",
     "source": "HackerNews"
   },
   {
-    "title": "Show HN: I built Comrade – the security-focused AI agent",
-    "url": "https://news.ycombinator.com/item?id=47839520",
-    "points": 5,
-    "comments": 2,
-    "date": "2026-04-20",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Show HN: The Trawl CLI, trudge through agent harness logs for shit and giggles",
-    "url": "https://the-daily-claude.github.io/the-daily-claude/",
-    "points": 1,
+    "title": "Show HN: OpenBridge – turn web chat access into an OpenAI-compatible endpoint",
+    "url": "https://news.ycombinator.com/item?id=47845540",
+    "points": 3,
     "comments": 0,
-    "date": "2026-04-20",
+    "date": "2026-04-21",
     "source": "HackerNews"
   },
   {
@@ -72,6 +72,14 @@
     "source": "HackerNews"
   },
   {
+    "title": "Show HN: Paper Lantern – improving Autoresearch with research knowledge",
+    "url": "https://www.paperlantern.ai/code",
+    "points": 2,
+    "comments": 2,
+    "date": "2026-04-21",
+    "source": "HackerNews"
+  },
+  {
     "title": "Show HN: How Are You-elderly fall detection app I built solo with AI in 6 months",
     "url": "https://news.ycombinator.com/item?id=47819553",
     "points": 4,
@@ -85,14 +93,6 @@
     "points": 8,
     "comments": 1,
     "date": "2026-04-11",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Show HN: FlowScript – Agent memory where contradictions are features",
-    "url": "https://github.com/phillipclapham/flowscript",
-    "points": 2,
-    "comments": 1,
-    "date": "2026-03-25",
     "source": "HackerNews"
   }
 ]

@@ -35,6 +35,24 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-04-22",
+      "mentions": 1,
+      "total_points": 3,
+      "total_comments": 0,
+      "recent_issues_7d": 30,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "LLM desktop client – Cherry Studio",
+          "url": "https://github.com/CherryHQ/cherry-studio",
+          "points": 3,
+          "comments": 0,
+          "date": "2025-01-23",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/zhayujie/CowAgent": [
@@ -102,6 +120,40 @@
           "points": 1,
           "comments": 0,
           "date": "2026-04-14",
+          "source": "HackerNews"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-22",
+      "mentions": 3,
+      "total_points": 9,
+      "total_comments": 3,
+      "recent_issues_7d": 27,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "The Landscape of Agentic Coding",
+          "url": "https://codagent.beehiiv.com/p/the-middle-agentic-path",
+          "points": 4,
+          "comments": 1,
+          "date": "2026-04-08",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Show HN: yoyo - a 200 line baby coding agent evolving in its own Truman Show",
+          "url": "https://github.com/yologdev/yoyo-evolve",
+          "points": 3,
+          "comments": 1,
+          "date": "2026-03-04",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Spec-driven development isn't Waterfall in Markdown – here's what it is",
+          "url": "https://codagent.beehiiv.com/p/think-before-you-prompt",
+          "points": 2,
+          "comments": 1,
+          "date": "2026-04-03",
           "source": "HackerNews"
         }
       ]
@@ -175,6 +227,40 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-04-22",
+      "mentions": 3,
+      "total_points": 40,
+      "total_comments": 7,
+      "recent_issues_7d": 30,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "KTaO3-Based Supercurrent Diode",
+          "url": "https://pubs.acs.org/doi/10.1021/acs.nanolett.5c05590",
+          "points": 35,
+          "comments": 5,
+          "date": "2026-04-15",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Show HN: Nanolytica – Analytics for Everything",
+          "url": "https://nanolytica.org/",
+          "points": 3,
+          "comments": 2,
+          "date": "2026-04-15",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Poking at AttnRes with NanoGPT",
+          "url": "https://axu.sh/post/attention-residuals",
+          "points": 2,
+          "comments": 0,
+          "date": "2026-04-14",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/moeru-ai/airi": [
@@ -242,6 +328,40 @@
           "points": 1,
           "comments": 0,
           "date": "2026-04-21",
+          "source": "HackerNews"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-22",
+      "mentions": 3,
+      "total_points": 4,
+      "total_comments": 0,
+      "recent_issues_7d": 30,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "AI bot buying what agents can buy in 2026",
+          "url": "https://dialtoneapp.com/2026/april/ai-bot-buying-report",
+          "points": 2,
+          "comments": 0,
+          "date": "2026-04-21",
+          "source": "HackerNews"
+        },
+        {
+          "title": "The State of the Human Rights: April 2026",
+          "url": "https://www.amnesty.org/en/documents/pol10/0320/2026/en/",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-04-22",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Building a fault-tolerant metrics storage system at Airbnb",
+          "url": "https://medium.com/airbnb-engineering/building-a-fault-tolerant-metrics-storage-system-at-airbnb-26a01a6e7017",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-04-22",
           "source": "HackerNews"
         }
       ]
@@ -315,6 +435,40 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-04-22",
+      "mentions": 3,
+      "total_points": 221,
+      "total_comments": 24,
+      "recent_issues_7d": 2,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "An unsolicited guide to being a researcher [pdf]",
+          "url": "https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf",
+          "points": 217,
+          "comments": 24,
+          "date": "2026-03-19",
+          "source": "HackerNews"
+        },
+        {
+          "title": "The sonic anatomy of a double tap strike",
+          "url": "https://earshotngo.substack.com/p/the-sonic-anatomy-of-a-double-tap",
+          "points": 2,
+          "comments": 0,
+          "date": "2026-04-21",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Show HN: Context-Aware Twitch Moderation",
+          "url": "https://modcheck.app",
+          "points": 2,
+          "comments": 0,
+          "date": "2026-04-08",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/NVIDIA/OpenShell": [
@@ -385,6 +539,40 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-04-22",
+      "mentions": 3,
+      "total_points": 9,
+      "total_comments": 1,
+      "recent_issues_7d": 30,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "Autonomous AI Agents Become Secure by Design with Nvidia OpenShell",
+          "url": "https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/",
+          "points": 4,
+          "comments": 0,
+          "date": "2026-04-14",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Securing My Agent with Openshell",
+          "url": "https://suthakamal.substack.com/p/the-container-was-always-there",
+          "points": 3,
+          "comments": 1,
+          "date": "2026-04-01",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Nvidia OpenShell: safe, private runtime for autonomous AI agents",
+          "url": "https://github.com/nvidia/openshell",
+          "points": 2,
+          "comments": 0,
+          "date": "2026-04-21",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/mikeyobrien/ralph-orchestrator": [
@@ -412,6 +600,24 @@
       "total_points": 6,
       "total_comments": 0,
       "recent_issues_7d": 8,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "Show HN: Yet another tool to wrap agents in a loop",
+          "url": "https://github.com/mikeyobrien/ralph-orchestrator",
+          "points": 6,
+          "comments": 0,
+          "date": "2025-12-17",
+          "source": "HackerNews"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-22",
+      "mentions": 1,
+      "total_points": 6,
+      "total_comments": 0,
+      "recent_issues_7d": 3,
       "has_discussions": false,
       "top_mentions": [
         {
@@ -477,6 +683,32 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-04-22",
+      "mentions": 2,
+      "total_points": 4,
+      "total_comments": 1,
+      "recent_issues_7d": 28,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "Burned $250 in tokens on Day 1 with OpenClaw",
+          "url": "https://news.ycombinator.com/item?id=47162495",
+          "points": 3,
+          "comments": 1,
+          "date": "2026-02-26",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Show HN: A smart routing provider for OpenClaw",
+          "url": "https://clawpane.co",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-02-23",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/NousResearch/hermes-agent-self-evolution": [
@@ -504,6 +736,24 @@
       "total_points": 2,
       "total_comments": 0,
       "recent_issues_7d": 12,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "Hermes Agent Self-Evolution System: A Detailed Similarity Analysis with Evolver",
+          "url": "https://evomap.ai/blog/hermes-agent-evolver-similarity-analysis",
+          "points": 2,
+          "comments": 0,
+          "date": "2026-04-15",
+          "source": "HackerNews"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-22",
+      "mentions": 1,
+      "total_points": 2,
+      "total_comments": 0,
+      "recent_issues_7d": 10,
       "has_discussions": false,
       "top_mentions": [
         {
@@ -585,6 +835,40 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-04-22",
+      "mentions": 3,
+      "total_points": 176,
+      "total_comments": 62,
+      "recent_issues_7d": 2,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "Show HN: GoModel – an open-source AI gateway in Go",
+          "url": "https://github.com/ENTERPILOT/GOModel/",
+          "points": 168,
+          "comments": 62,
+          "date": "2026-04-21",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Attention Is All You Need",
+          "url": "https://news.ycombinator.com/item?id=47854096",
+          "points": 6,
+          "comments": 0,
+          "date": "2026-04-21",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Collaborative code editor implementation is harder than you expect",
+          "url": "https://medium.com/@growth_9158/building-a-reliable-collaborative-code-editor-lessons-from-shipping-real-time-mock-interviews-fab92609359f",
+          "points": 2,
+          "comments": 0,
+          "date": "2026-04-21",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/outsourc-e/hermes-workspace": [
@@ -603,6 +887,15 @@
       "total_points": 0,
       "total_comments": 0,
       "recent_issues_7d": 29,
+      "has_discussions": false,
+      "top_mentions": []
+    },
+    {
+      "date": "2026-04-22",
+      "mentions": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "recent_issues_7d": 30,
       "has_discussions": false,
       "top_mentions": []
     }
@@ -625,6 +918,15 @@
       "recent_issues_7d": 10,
       "has_discussions": false,
       "top_mentions": []
+    },
+    {
+      "date": "2026-04-22",
+      "mentions": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "recent_issues_7d": 28,
+      "has_discussions": false,
+      "top_mentions": []
     }
   ],
   "https://github.com/EKKOLearnAI/hermes-web-ui": [
@@ -639,6 +941,15 @@
     },
     {
       "date": "2026-04-21",
+      "mentions": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "recent_issues_7d": 30,
+      "has_discussions": false,
+      "top_mentions": []
+    },
+    {
+      "date": "2026-04-22",
       "mentions": 0,
       "total_points": 0,
       "total_comments": 0,
@@ -682,6 +993,15 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-04-22",
+      "mentions": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "recent_issues_7d": 0,
+      "has_discussions": false,
+      "top_mentions": []
     }
   ],
   "https://github.com/openonion/connectonion": [
@@ -744,6 +1064,40 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-04-22",
+      "mentions": 3,
+      "total_points": 7,
+      "total_comments": 1,
+      "recent_issues_7d": 14,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "I froze a TCP connection for 10 minutes to migrate a live server",
+          "url": "https://github.com/DongSunchao/libccmc",
+          "points": 4,
+          "comments": 1,
+          "date": "2026-04-21",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Why do systems stay coherent even as they lose connection to reality?",
+          "url": "https://therealitydrift.substack.com/p/semantic-fidelity-the-missing-constraint",
+          "points": 2,
+          "comments": 0,
+          "date": "2026-04-21",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Show HN: DataFrey – MCP server for Snowflake with text-to-SQL agent",
+          "url": "https://docs.datafrey.ai",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-04-21",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/heurist-network/heurist-agent-framework": [
@@ -758,6 +1112,15 @@
     },
     {
       "date": "2026-04-21",
+      "mentions": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "recent_issues_7d": 0,
+      "has_discussions": false,
+      "top_mentions": []
+    },
+    {
+      "date": "2026-04-22",
       "mentions": 0,
       "total_points": 0,
       "total_comments": 0,
@@ -834,6 +1197,40 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-04-22",
+      "mentions": 3,
+      "total_points": 5,
+      "total_comments": 1,
+      "recent_issues_7d": 0,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "Show HN: gcx – The Official Grafana Cloud CLI",
+          "url": "https://github.com/grafana/gcx",
+          "points": 3,
+          "comments": 0,
+          "date": "2026-04-22",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Migrate a Legacy Codebase with Sandbox Agents",
+          "url": "https://developers.openai.com/cookbook/examples/agents_sdk/sandboxed-code-migration/sandboxed_code_migration_agent",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-04-22",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Show HN: Octokraft – code health and PR review for AI-assisted teams",
+          "url": "https://app.octokraft.com",
+          "points": 1,
+          "comments": 1,
+          "date": "2026-04-21",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/shuanbao0/agent-factory": [
@@ -873,6 +1270,40 @@
     },
     {
       "date": "2026-04-21",
+      "mentions": 3,
+      "total_points": 6,
+      "total_comments": 0,
+      "recent_issues_7d": 0,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "Autoresearch for Integer Factorization",
+          "url": "https://github.com/iliazintchenko/agent-factoring",
+          "points": 4,
+          "comments": 0,
+          "date": "2026-03-29",
+          "source": "HackerNews"
+        },
+        {
+          "title": "AI-as-Code for Agent Factories",
+          "url": "https://re-cinq.github.io/wave/",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-03-15",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Multi-agent fleet management for coding agents",
+          "url": "https://github.com/supaku/agentfactory",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-03-15",
+          "source": "HackerNews"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-22",
       "mentions": 3,
       "total_points": 6,
       "total_comments": 0,
