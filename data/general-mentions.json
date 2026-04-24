@@ -1,26 +1,26 @@
 [
   {
-    "title": "Show HN: Stenobird, podcast transcription service for your agent",
-    "url": "https://stenobird.com",
+    "title": "DeepSeek V4 is out. the best open-source on coding. here's the breakdown",
+    "url": "https://news.ycombinator.com/item?id=47885230",
+    "points": 2,
+    "comments": 0,
+    "date": "2026-04-24",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Show HN: MirrorNeuron – an open-source runtime for reliable on-device AI agents",
+    "url": "https://www.mirrorneuron.io/",
     "points": 1,
     "comments": 0,
+    "date": "2026-04-24",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Show HN: We're building Apache spark for agents with Rust and Datafusion",
+    "url": "https://github.com/SkardiLabs/skardi",
+    "points": 2,
+    "comments": 1,
     "date": "2026-04-23",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Ravix – An AI agent that runs on your Claude Code subscription (alpha)",
-    "url": "https://news.ycombinator.com/item?id=47856900",
-    "points": 3,
-    "comments": 0,
-    "date": "2026-04-22",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Show HN: FlirtingBots – My AI agent flirts with yours, we meet if it clicks",
-    "url": "https://flirtingbots.com/",
-    "points": 3,
-    "comments": 2,
-    "date": "2026-04-21",
     "source": "HackerNews"
   },
   {
@@ -42,8 +42,8 @@
   {
     "title": "Show HN: We built a <60ms, open-source alternative to E2B using RustVMM and KVM",
     "url": "https://github.com/TencentCloud/CubeSandbox",
-    "points": 6,
-    "comments": 0,
+    "points": 7,
+    "comments": 2,
     "date": "2026-04-22",
     "source": "HackerNews"
   },

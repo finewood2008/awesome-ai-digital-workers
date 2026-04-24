@@ -1,0 +1,119 @@
+[
+  {
+    "name": "cherry-studio",
+    "url": "https://github.com/CherryHQ/cherry-studio",
+    "stars": 44215,
+    "growth": {
+      "daily": 105,
+      "weekly": 735,
+      "monthly": 2940,
+      "trend": "🚀 explosive"
+    },
+    "score": 90,
+    "reason": "星星增速异常：日+105，周+735"
+  },
+  {
+    "name": "CowAgent",
+    "url": "https://github.com/zhayujie/CowAgent",
+    "stars": 43676,
+    "growth": {
+      "daily": 32,
+      "weekly": 224,
+      "monthly": 896,
+      "trend": "📈 fast"
+    },
+    "score": 95,
+    "reason": "星星增速异常：日+32，周+224"
+  },
+  {
+    "name": "nanobot",
+    "url": "https://github.com/HKUDS/nanobot",
+    "stars": 40698,
+    "growth": {
+      "daily": 129,
+      "weekly": 903,
+      "monthly": 3612,
+      "trend": "🚀 explosive"
+    },
+    "score": 99,
+    "reason": "星星增速异常：日+129，周+903"
+  },
+  {
+    "name": "airi",
+    "url": "https://github.com/moeru-ai/airi",
+    "stars": 38564,
+    "growth": {
+      "daily": 55,
+      "weekly": 385,
+      "monthly": 1540,
+      "trend": "📈 fast"
+    },
+    "score": 91,
+    "reason": "星星增速异常：日+55，周+385"
+  },
+  {
+    "name": "OpenShell",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "stars": 5289,
+    "growth": {
+      "daily": 30,
+      "weekly": 210,
+      "monthly": 840,
+      "trend": "📈 fast"
+    },
+    "score": 81,
+    "reason": "星星增速异常：日+30，周+210"
+  },
+  {
+    "name": "hermes-agent-self-evolution",
+    "url": "https://github.com/NousResearch/hermes-agent-self-evolution",
+    "stars": 2185,
+    "growth": {
+      "daily": 65,
+      "weekly": 455,
+      "monthly": 1820,
+      "trend": "📈 fast"
+    },
+    "score": 40,
+    "reason": "星星增速异常：日+65，周+455"
+  },
+  {
+    "name": "hermes-workspace",
+    "url": "https://github.com/outsourc-e/hermes-workspace",
+    "stars": 2214,
+    "growth": {
+      "daily": 100,
+      "weekly": 700,
+      "monthly": 2800,
+      "trend": "🚀 explosive"
+    },
+    "score": 88,
+    "reason": "星星增速异常：日+100，周+700"
+  },
+  {
+    "name": "awesome-hermes-agent",
+    "url": "https://github.com/0xNyk/awesome-hermes-agent",
+    "stars": 1702,
+    "growth": {
+      "daily": 74,
+      "weekly": 518,
+      "monthly": 2072,
+      "trend": "🚀 explosive"
+    },
+    "score": 76,
+    "reason": "星星增速异常：日+74，周+518"
+  },
+  {
+    "name": "hermes-web-ui",
+    "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+    "stars": 1896,
+    "growth": {
+      "daily": 211,
+      "weekly": 1477,
+      "monthly": 5908,
+      "trend": "🚀 explosive"
+    },
+    "score": 88,
+    "reason": "星星增速异常：日+211，周+1477"
+  }
+]
