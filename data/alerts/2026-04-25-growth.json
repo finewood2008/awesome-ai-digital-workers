@@ -1,0 +1,67 @@
+[
+  {
+    "name": "cherry-studio",
+    "url": "https://github.com/CherryHQ/cherry-studio",
+    "stars": 44310,
+    "growth": {
+      "daily": 95,
+      "weekly": 665,
+      "monthly": 2660,
+      "trend": "🚀 explosive"
+    },
+    "score": 90,
+    "reason": "星星增速异常：日+95，周+665"
+  },
+  {
+    "name": "nanobot",
+    "url": "https://github.com/HKUDS/nanobot",
+    "stars": 40791,
+    "growth": {
+      "daily": 93,
+      "weekly": 651,
+      "monthly": 2604,
+      "trend": "🚀 explosive"
+    },
+    "score": 99,
+    "reason": "星星增速异常：日+93，周+651"
+  },
+  {
+    "name": "hermes-agent-self-evolution",
+    "url": "https://github.com/NousResearch/hermes-agent-self-evolution",
+    "stars": 2220,
+    "growth": {
+      "daily": 35,
+      "weekly": 245,
+      "monthly": 980,
+      "trend": "📈 fast"
+    },
+    "score": 40,
+    "reason": "星星增速异常：日+35，周+245"
+  },
+  {
+    "name": "hermes-workspace",
+    "url": "https://github.com/outsourc-e/hermes-workspace",
+    "stars": 2261,
+    "growth": {
+      "daily": 47,
+      "weekly": 329,
+      "monthly": 1316,
+      "trend": "📈 fast"
+    },
+    "score": 83,
+    "reason": "星星增速异常：日+47，周+329"
+  },
+  {
+    "name": "hermes-web-ui",
+    "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+    "stars": 2024,
+    "growth": {
+      "daily": 128,
+      "weekly": 896,
+      "monthly": 3584,
+      "trend": "🚀 explosive"
+    },
+    "score": 88,
+    "reason": "星星增速异常：日+128，周+896"
+  }
+]
