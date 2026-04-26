@@ -1,33 +1,41 @@
 [
   {
-    "title": "Show HN: Lilo – a self-hosted, open-source intelligent personal OS",
-    "url": "https://github.com/abi/lilo",
-    "points": 3,
-    "comments": 2,
-    "date": "2026-04-24",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Show HN: PrivateClaw – AI agents running in confidential VMs you can verify",
-    "url": "https://privateclaw.dev",
-    "points": 6,
+    "title": "Shipping the OpenClaw Stack in Public",
+    "url": "https://agentbot.sh",
+    "points": 2,
     "comments": 0,
-    "date": "2026-04-24",
+    "date": "2026-04-25",
     "source": "HackerNews"
   },
   {
-    "title": "DeepSeek V4 is out. the best open-source on coding. here's the breakdown",
-    "url": "https://news.ycombinator.com/item?id=47885230",
+    "title": "Shipping the OpenClaw Stack in Public",
+    "url": "https://agentbot.raveculture.xyz/blog",
+    "points": 2,
+    "comments": 0,
+    "date": "2026-04-25",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Clawcenter – Minimal Mission Control",
+    "url": "https://news.ycombinator.com/item?id=47900302",
     "points": 3,
-    "comments": 1,
-    "date": "2026-04-24",
+    "comments": 2,
+    "date": "2026-04-25",
+    "source": "HackerNews"
+  },
+  {
+    "title": "OpenClaw vs. Hermes Agent: The race to build AI assistants that never forget",
+    "url": "https://thenewstack.io/persistent-ai-agents-compared/",
+    "points": 2,
+    "comments": 0,
+    "date": "2026-04-25",
     "source": "HackerNews"
   },
   {
     "title": "Show HN: Lilo – a self-hosted, open-source intelligent personal OS",
     "url": "https://github.com/abi/lilo",
-    "points": 3,
-    "comments": 2,
+    "points": 7,
+    "comments": 4,
     "date": "2026-04-24",
     "source": "HackerNews"
   },
@@ -37,14 +45,6 @@
     "points": 1,
     "comments": 0,
     "date": "2026-04-23",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Show HN: AI Hermes Agent – An independent Hermes Agent install guide",
-    "url": "https://ai-hermes-agent.com/install",
-    "points": 3,
-    "comments": 1,
-    "date": "2026-04-22",
     "source": "HackerNews"
   },
   {

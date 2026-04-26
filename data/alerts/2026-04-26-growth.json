@@ -1,0 +1,93 @@
+[
+  {
+    "name": "cherry-studio",
+    "url": "https://github.com/CherryHQ/cherry-studio",
+    "stars": 44397,
+    "growth": {
+      "daily": 87,
+      "weekly": 609,
+      "monthly": 2436,
+      "trend": "🚀 explosive"
+    },
+    "score": 90,
+    "reason": "星星增速异常：日+87，周+609"
+  },
+  {
+    "name": "nanobot",
+    "url": "https://github.com/HKUDS/nanobot",
+    "stars": 40871,
+    "growth": {
+      "daily": 80,
+      "weekly": 560,
+      "monthly": 2240,
+      "trend": "🚀 explosive"
+    },
+    "score": 99,
+    "reason": "星星增速异常：日+80，周+560"
+  },
+  {
+    "name": "airi",
+    "url": "https://github.com/moeru-ai/airi",
+    "stars": 38625,
+    "growth": {
+      "daily": 34,
+      "weekly": 238,
+      "monthly": 952,
+      "trend": "📈 fast"
+    },
+    "score": 91,
+    "reason": "星星增速异常：日+34，周+238"
+  },
+  {
+    "name": "hermes-agent-self-evolution",
+    "url": "https://github.com/NousResearch/hermes-agent-self-evolution",
+    "stars": 2263,
+    "growth": {
+      "daily": 43,
+      "weekly": 301,
+      "monthly": 1204,
+      "trend": "📈 fast"
+    },
+    "score": 40,
+    "reason": "星星增速异常：日+43，周+301"
+  },
+  {
+    "name": "hermes-workspace",
+    "url": "https://github.com/outsourc-e/hermes-workspace",
+    "stars": 2326,
+    "growth": {
+      "daily": 65,
+      "weekly": 455,
+      "monthly": 1820,
+      "trend": "📈 fast"
+    },
+    "score": 83,
+    "reason": "星星增速异常：日+65，周+455"
+  },
+  {
+    "name": "awesome-hermes-agent",
+    "url": "https://github.com/0xNyk/awesome-hermes-agent",
+    "stars": 1831,
+    "growth": {
+      "daily": 103,
+      "weekly": 721,
+      "monthly": 2884,
+      "trend": "🚀 explosive"
+    },
+    "score": 76,
+    "reason": "星星增速异常：日+103，周+721"
+  },
+  {
+    "name": "hermes-web-ui",
+    "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+    "stars": 2161,
+    "growth": {
+      "daily": 137,
+      "weekly": 959,
+      "monthly": 3836,
+      "trend": "🚀 explosive"
+    },
+    "score": 88,
+    "reason": "星星增速异常：日+137，周+959"
+  }
+]
