@@ -4,7 +4,7 @@
 > 
 > 每日由 GitHub Actions 自动检索 + 增长监控 + 社媒热度分析
 > 
-> 📊 共收录 **26** 个项目 | 🕐 最后更新: 2026-04-27 09:39 CST
+> 📊 共收录 **26** 个项目 | 🕐 最后更新: 2026-04-27 12:32 CST
 
 ---
 
@@ -87,16 +87,6 @@
 ---
 
 ## 📝 最近更新
-
-### 2026-04-27
-- [openclaw](https://github.com/openclaw/openclaw) ⭐364,647 — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-- [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐118,407 — The agent that grows with you
-- [cc-switch](https://github.com/farion1231/cc-switch) ⭐51,928 — A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenC
-- [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐47,304 — The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorize
-- [gbrain](https://github.com/garrytan/gbrain) ⭐11,580 — Garry's Opinionated OpenClaw/Hermes Agent Brain
-- [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) ⭐8,555 — 🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/
-- [hermes-webui](https://github.com/nesquena/hermes-webui) ⭐4,393 — Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
-- [hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) ⭐3,020 — Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 
 ---
 

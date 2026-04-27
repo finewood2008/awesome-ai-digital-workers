@@ -2,7 +2,7 @@
   {
     "name": "cherry-studio",
     "url": "https://github.com/CherryHQ/cherry-studio",
-    "stars": 44474,
+    "stars": 44499,
     "growth": {
       "daily": 77,
       "weekly": 581,
@@ -15,7 +15,7 @@
   {
     "name": "nanobot",
     "url": "https://github.com/HKUDS/nanobot",
-    "stars": 40949,
+    "stars": 40968,
     "growth": {
       "daily": 78,
       "weekly": 768,
@@ -28,7 +28,7 @@
   {
     "name": "airi",
     "url": "https://github.com/moeru-ai/airi",
-    "stars": 38659,
+    "stars": 38666,
     "growth": {
       "daily": 34,
       "weekly": 264,
@@ -41,7 +41,7 @@
   {
     "name": "OpenShell",
     "url": "https://github.com/NVIDIA/OpenShell",
-    "stars": 5345,
+    "stars": 5353,
     "growth": {
       "daily": 20,
       "weekly": 231,
@@ -54,7 +54,7 @@
   {
     "name": "hermes-agent-self-evolution",
     "url": "https://github.com/NousResearch/hermes-agent-self-evolution",
-    "stars": 2296,
+    "stars": 2306,
     "growth": {
       "daily": 33,
       "weekly": 322,
@@ -67,7 +67,7 @@
   {
     "name": "hermes-workspace",
     "url": "https://github.com/outsourc-e/hermes-workspace",
-    "stars": 2371,
+    "stars": 2381,
     "growth": {
       "daily": 45,
       "weekly": 692,
@@ -80,7 +80,7 @@
   {
     "name": "awesome-hermes-agent",
     "url": "https://github.com/0xNyk/awesome-hermes-agent",
-    "stars": 1880,
+    "stars": 1884,
     "growth": {
       "daily": 49,
       "weekly": 397,
@@ -93,7 +93,7 @@
   {
     "name": "hermes-web-ui",
     "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
-    "stars": 2268,
+    "stars": 2294,
     "growth": {
       "daily": 107,
       "weekly": 1081,
