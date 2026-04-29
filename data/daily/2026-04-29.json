@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "name": "hermes-desktop",
+    "url": "https://github.com/fathah/hermes-desktop",
+    "owner": "fathah",
+    "description": "Desktop Companion for Hermes Agent",
+    "stars": 538,
+    "language": "TypeScript",
+    "topics": [],
+    "discovered": "2026-04-29",
+    "category": "Hermes / OpenClaw 生态"
+  },
+  {
+    "name": "hermes-paperclip-adapter",
+    "url": "https://github.com/NousResearch/hermes-paperclip-adapter",
+    "owner": "NousResearch",
+    "description": "Paperclip adapter for Hermes Agent — run Hermes as a managed employee in a Paperclip company",
+    "stars": 1012,
+    "language": "TypeScript",
+    "topics": [],
+    "discovered": "2026-04-29",
+    "category": "Hermes / OpenClaw 生态"
+  },
+  {
+    "name": "openclaw101",
+    "url": "https://github.com/mengjian-github/openclaw101",
+    "owner": "mengjian-github",
+    "description": "🐾 OpenClaw 101 — 从零开始，7天掌握你的AI私人助理 | 全网资源聚合站",
+    "stars": 2799,
+    "language": "TypeScript",
+    "topics": [],
+    "discovered": "2026-04-29",
+    "category": "Hermes / OpenClaw 生态"
+  },
+  {
+    "name": "clawhub",
+    "url": "https://github.com/openclaw/clawhub",
+    "owner": "openclaw",
+    "description": "Skill Directory for OpenClaw",
+    "stars": 8347,
+    "language": "TypeScript",
+    "topics": [],
+    "discovered": "2026-04-29",
+    "category": "Hermes / OpenClaw 生态"
+  },
+  {
+    "name": "openclaw-zero-token",
+    "url": "https://github.com/linuxhsj/openclaw-zero-token",
+    "owner": "linuxhsj",
+    "description": "OpenClaw: Use All Major AI Models NO API Token! Claude/ChatGPT/Gemini/DeepSeek/Doubao/Grok/Qwen/Manus/Kimi",
+    "stars": 4589,
+    "language": "TypeScript",
+    "topics": [],
+    "discovered": "2026-04-29",
+    "category": "Hermes / OpenClaw 生态"
+  },
+  {
+    "name": "openclaw-mission-control",
+    "url": "https://github.com/abhi1693/openclaw-mission-control",
+    "owner": "abhi1693",
+    "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
+    "stars": 3854,
+    "language": "TypeScript",
+    "topics": [],
+    "discovered": "2026-04-29",
+    "category": "Hermes / OpenClaw 生态"
+  },
+  {
+    "name": "OpenClaw-RL",
+    "url": "https://github.com/Gen-Verse/OpenClaw-RL",
+    "owner": "Gen-Verse",
+    "description": "OpenClaw-RL: Train any agent simply by talking",
+    "stars": 5163,
+    "language": "Python",
+    "topics": [],
+    "discovered": "2026-04-29",
+    "category": "Hermes / OpenClaw 生态"
+  },
+  {
+    "name": "greentic",
+    "url": "https://github.com/greenticai/greentic",
+    "owner": "greenticai",
+    "description": "The Digital Workers OS",
+    "stars": 15,
+    "language": "Rust",
+    "topics": [],
+    "discovered": "2026-04-29",
+    "category": "数字员工 / RPA + AI"
+  },
+  {
+    "name": "VibeWorker",
+    "url": "https://github.com/EntropyFlux/VibeWorker",
+    "owner": "EntropyFlux",
+    "description": "AI VibeWorker - AI Digital Worker",
+    "stars": 16,
+    "language": "Python",
+    "topics": [],
+    "discovered": "2026-04-29",
+    "category": "数字员工 / RPA + AI"
+  },
+  {
+    "name": "opencodos",
+    "url": "https://github.com/opencodos/opencodos",
+    "owner": "opencodos",
+    "description": "AI Operating System for digital workers",
+    "stars": 14,
+    "language": "TypeScript",
+    "topics": [],
+    "discovered": "2026-04-29",
+    "category": "数字员工 / RPA + AI"
+  }
+]
