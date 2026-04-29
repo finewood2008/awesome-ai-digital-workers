@@ -53,6 +53,12 @@
       "stars": 44601,
       "forks": 4232,
       "commits_7d": 35
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 44696,
+      "forks": 4247,
+      "commits_7d": 37
     }
   ],
   "https://github.com/zhayujie/CowAgent": [
@@ -109,6 +115,12 @@
       "stars": 43787,
       "forks": 10003,
       "commits_7d": 18
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 43836,
+      "forks": 10008,
+      "commits_7d": 17
     }
   ],
   "https://github.com/HKUDS/nanobot": [
@@ -164,6 +176,12 @@
       "date": "2026-04-28",
       "stars": 41095,
       "forks": 7212,
+      "commits_7d": 100
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 41222,
+      "forks": 7230,
       "commits_7d": 100
     }
   ],
@@ -221,6 +239,12 @@
       "stars": 38696,
       "forks": 3913,
       "commits_7d": 70
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 38733,
+      "forks": 3912,
+      "commits_7d": 74
     }
   ],
   "https://github.com/Upsonic/Upsonic": [
@@ -277,6 +301,12 @@
       "stars": 7836,
       "forks": 727,
       "commits_7d": 15
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 7836,
+      "forks": 728,
+      "commits_7d": 13
     }
   ],
   "https://github.com/NVIDIA/OpenShell": [
@@ -333,6 +363,12 @@
       "stars": 5387,
       "forks": 603,
       "commits_7d": 55
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 5409,
+      "forks": 611,
+      "commits_7d": 55
     }
   ],
   "https://github.com/mikeyobrien/ralph-orchestrator": [
@@ -387,6 +423,12 @@
     {
       "date": "2026-04-28",
       "stars": 2769,
+      "forks": 258,
+      "commits_7d": 2
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 2772,
       "forks": 258,
       "commits_7d": 2
     }
@@ -445,6 +487,12 @@
       "stars": 2568,
       "forks": 328,
       "commits_7d": 20
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 2589,
+      "forks": 330,
+      "commits_7d": 19
     }
   ],
   "https://github.com/NousResearch/hermes-agent-self-evolution": [
@@ -501,6 +549,12 @@
       "stars": 2395,
       "forks": 258,
       "commits_7d": 0
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 2507,
+      "forks": 266,
+      "commits_7d": 0
     }
   ],
   "https://github.com/yomorun/yomo": [
@@ -554,6 +608,12 @@
     },
     {
       "date": "2026-04-28",
+      "stars": 1901,
+      "forks": 144,
+      "commits_7d": 0
+    },
+    {
+      "date": "2026-04-29",
       "stars": 1901,
       "forks": 144,
       "commits_7d": 0
@@ -613,6 +673,12 @@
       "stars": 2431,
       "forks": 287,
       "commits_7d": 38
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 2478,
+      "forks": 295,
+      "commits_7d": 42
     }
   ],
   "https://github.com/0xNyk/awesome-hermes-agent": [
@@ -669,6 +735,12 @@
       "stars": 1945,
       "forks": 135,
       "commits_7d": 11
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 2008,
+      "forks": 136,
+      "commits_7d": 0
     }
   ],
   "https://github.com/EKKOLearnAI/hermes-web-ui": [
@@ -725,6 +797,12 @@
       "stars": 2442,
       "forks": 303,
       "commits_7d": 69
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 2684,
+      "forks": 337,
+      "commits_7d": 57
     }
   ],
   "https://github.com/wanxingai/LightAgent": [
@@ -779,6 +857,12 @@
     {
       "date": "2026-04-28",
       "stars": 905,
+      "forks": 119,
+      "commits_7d": 6
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 908,
       "forks": 119,
       "commits_7d": 6
     }
@@ -837,6 +921,12 @@
       "stars": 925,
       "forks": 125,
       "commits_7d": 16
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 939,
+      "forks": 126,
+      "commits_7d": 3
     }
   ],
   "https://github.com/heurist-network/heurist-agent-framework": [
@@ -893,6 +983,12 @@
       "stars": 802,
       "forks": 80,
       "commits_7d": 3
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 802,
+      "forks": 80,
+      "commits_7d": 2
     }
   ],
   "https://github.com/stacklok/codegate": [
@@ -946,6 +1042,12 @@
     },
     {
       "date": "2026-04-28",
+      "stars": 785,
+      "forks": 90,
+      "commits_7d": 0
+    },
+    {
+      "date": "2026-04-29",
       "stars": 785,
       "forks": 90,
       "commits_7d": 0
@@ -1005,6 +1107,12 @@
       "stars": 9,
       "forks": 3,
       "commits_7d": 0
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 9,
+      "forks": 3,
+      "commits_7d": 0
     }
   ],
   "https://github.com/openclaw/openclaw": [
@@ -1018,6 +1126,12 @@
       "date": "2026-04-28",
       "stars": 365443,
       "forks": 74869,
+      "commits_7d": 100
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 365975,
+      "forks": 75034,
       "commits_7d": 100
     }
   ],
@@ -1033,6 +1147,12 @@
       "stars": 121040,
       "forks": 18009,
       "commits_7d": 100
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 123379,
+      "forks": 18380,
+      "commits_7d": 100
     }
   ],
   "https://github.com/farion1231/cc-switch": [
@@ -1047,6 +1167,12 @@
       "stars": 53257,
       "forks": 3441,
       "commits_7d": 35
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 54712,
+      "forks": 3568,
+      "commits_7d": 26
     }
   ],
   "https://github.com/VoltAgent/awesome-openclaw-skills": [
@@ -1060,6 +1186,12 @@
       "date": "2026-04-28",
       "stars": 47427,
       "forks": 4644,
+      "commits_7d": 0
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 47506,
+      "forks": 4649,
       "commits_7d": 0
     }
   ],
@@ -1075,6 +1207,12 @@
       "stars": 11849,
       "forks": 1439,
       "commits_7d": 25
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 12105,
+      "forks": 1479,
+      "commits_7d": 24
     }
   ],
   "https://github.com/jnMetaCode/agency-agents-zh": [
@@ -1088,6 +1226,12 @@
       "date": "2026-04-28",
       "stars": 8797,
       "forks": 1676,
+      "commits_7d": 0
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 8981,
+      "forks": 1724,
       "commits_7d": 0
     }
   ],
@@ -1103,6 +1247,12 @@
       "stars": 4622,
       "forks": 562,
       "commits_7d": 100
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 4826,
+      "forks": 591,
+      "commits_7d": 100
     }
   ],
   "https://github.com/alchaincyf/hermes-agent-orange-book": [
@@ -1117,6 +1267,12 @@
       "stars": 3166,
       "forks": 339,
       "commits_7d": 1
+    },
+    {
+      "date": "2026-04-29",
+      "stars": 3343,
+      "forks": 354,
+      "commits_7d": 0
     }
   ]
 }

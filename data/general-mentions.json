@@ -1,26 +1,34 @@
 [
   {
-    "title": "Show HN: Is it art? An art project for AI agents",
-    "url": "https://isitartstudio.com",
-    "points": 1,
+    "title": "Show HN: SlopIt – A dead-simple CMS for your AI agent",
+    "url": "https://slopit.io/",
+    "points": 4,
     "comments": 0,
-    "date": "2026-04-27",
+    "date": "2026-04-28",
     "source": "HackerNews"
   },
   {
-    "title": "Shipping the OpenClaw Stack in Public",
-    "url": "https://agentbot.sh",
+    "title": "My adventures with \"The AI that actually does things\"",
+    "url": "https://nymag.com/intelligencer/article/my-adventures-setting-up-openclaw-agent.html",
     "points": 2,
-    "comments": 0,
-    "date": "2026-04-25",
+    "comments": 1,
+    "date": "2026-04-28",
     "source": "HackerNews"
   },
   {
-    "title": "Shipping the OpenClaw Stack in Public",
-    "url": "https://agentbot.raveculture.xyz/blog",
-    "points": 2,
+    "title": "Show HN: Integrations gateway for agents with 2FA for destructive ops (OSS)",
+    "url": "https://github.com/yakkomajuri/agentport",
+    "points": 3,
+    "comments": 2,
+    "date": "2026-04-28",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Show HN: iClaw is part OpenClaw, part Siri, powered by Apple Intelligence",
+    "url": "https://barrasso.me/posts/2026-04-27-iclaw-ai-agent-using-apple-intelligence/",
+    "points": 5,
     "comments": 0,
-    "date": "2026-04-25",
+    "date": "2026-04-28",
     "source": "HackerNews"
   },
   {
@@ -37,14 +45,6 @@
     "points": 7,
     "comments": 4,
     "date": "2026-04-24",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Hermes Agent – A self-improving AI agent",
-    "url": "https://hermes-agent.nousresearch.com",
-    "points": 1,
-    "comments": 0,
-    "date": "2026-04-23",
     "source": "HackerNews"
   },
   {
@@ -72,6 +72,14 @@
     "source": "HackerNews"
   },
   {
+    "title": "Show HN: iClaw is part OpenClaw, part Siri, powered by Apple Intelligence",
+    "url": "https://barrasso.me/posts/2026-04-27-iclaw-ai-agent-using-apple-intelligence/",
+    "points": 5,
+    "comments": 0,
+    "date": "2026-04-28",
+    "source": "HackerNews"
+  },
+  {
     "title": "Show HN: Paper Lantern – improving Autoresearch with research knowledge",
     "url": "https://www.paperlantern.ai/code",
     "points": 2,
@@ -85,14 +93,6 @@
     "points": 4,
     "comments": 10,
     "date": "2026-04-18",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Show HN: HyperFlow – A self-improving agent framework built on LangGraph",
-    "url": "https://news.ycombinator.com/item?id=47727255",
-    "points": 8,
-    "comments": 1,
-    "date": "2026-04-11",
     "source": "HackerNews"
   }
 ]
