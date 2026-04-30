@@ -1,5 +1,13 @@
 [
   {
+    "title": "Show HN: AgentPort – Open-source Security Gateway For Agents",
+    "url": "https://agentport.sh/",
+    "points": 5,
+    "comments": 1,
+    "date": "2026-04-29",
+    "source": "HackerNews"
+  },
+  {
     "title": "Show HN: SlopIt – A dead-simple CMS for your AI agent",
     "url": "https://slopit.io/",
     "points": 4,
@@ -12,14 +20,6 @@
     "url": "https://nymag.com/intelligencer/article/my-adventures-setting-up-openclaw-agent.html",
     "points": 2,
     "comments": 1,
-    "date": "2026-04-28",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Show HN: Integrations gateway for agents with 2FA for destructive ops (OSS)",
-    "url": "https://github.com/yakkomajuri/agentport",
-    "points": 3,
-    "comments": 2,
     "date": "2026-04-28",
     "source": "HackerNews"
   },
