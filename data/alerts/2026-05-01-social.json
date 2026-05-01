@@ -1,0 +1,30 @@
+[
+  {
+    "name": "airi",
+    "url": "https://github.com/moeru-ai/airi",
+    "mentions": 3,
+    "total_points": 433,
+    "reason": "社媒热度高：3条提及，433总分"
+  },
+  {
+    "name": "LightAgent",
+    "url": "https://github.com/wanxingai/LightAgent",
+    "mentions": 2,
+    "total_points": 155,
+    "reason": "社媒热度高：2条提及，155总分"
+  },
+  {
+    "name": "codegate",
+    "url": "https://github.com/stacklok/codegate",
+    "mentions": 3,
+    "total_points": 127,
+    "reason": "社媒热度高：3条提及，127总分"
+  },
+  {
+    "name": "openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "mentions": 3,
+    "total_points": 1038,
+    "reason": "社媒热度高：3条提及，1038总分"
+  }
+]

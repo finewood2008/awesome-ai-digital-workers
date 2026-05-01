@@ -1,26 +1,42 @@
 [
   {
+    "title": "Show HN: Arkloop – Open-source, local-first Agent client",
+    "url": "https://github.com/qqqqqf-q/arkloop",
+    "points": 2,
+    "comments": 0,
+    "date": "2026-04-30",
+    "source": "HackerNews"
+  },
+  {
     "title": "Show HN: AgentPort – Open-source Security Gateway For Agents",
     "url": "https://agentport.sh/",
-    "points": 5,
-    "comments": 1,
+    "points": 6,
+    "comments": 3,
     "date": "2026-04-29",
     "source": "HackerNews"
   },
   {
     "title": "Show HN: SlopIt – A dead-simple CMS for your AI agent",
     "url": "https://slopit.io/",
-    "points": 4,
+    "points": 5,
     "comments": 0,
     "date": "2026-04-28",
     "source": "HackerNews"
   },
   {
-    "title": "My adventures with \"The AI that actually does things\"",
-    "url": "https://nymag.com/intelligencer/article/my-adventures-setting-up-openclaw-agent.html",
-    "points": 2,
-    "comments": 1,
-    "date": "2026-04-28",
+    "title": "We scanned 100 Smithery MCP servers, 22 flagged, here's what we found",
+    "url": "https://news.ycombinator.com/item?id=47969781",
+    "points": 3,
+    "comments": 2,
+    "date": "2026-04-30",
+    "source": "HackerNews"
+  },
+  {
+    "title": "Ask HN: Anyone using AI agents for active learning sprints? Here's my setup",
+    "url": "https://news.ycombinator.com/item?id=47959169",
+    "points": 4,
+    "comments": 2,
+    "date": "2026-04-30",
     "source": "HackerNews"
   },
   {
@@ -29,22 +45,6 @@
     "points": 5,
     "comments": 0,
     "date": "2026-04-28",
-    "source": "HackerNews"
-  },
-  {
-    "title": "OpenClaw vs. Hermes Agent: The race to build AI assistants that never forget",
-    "url": "https://thenewstack.io/persistent-ai-agents-compared/",
-    "points": 2,
-    "comments": 0,
-    "date": "2026-04-25",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Show HN: Lilo – a self-hosted, open-source intelligent personal OS",
-    "url": "https://github.com/abi/lilo",
-    "points": 7,
-    "comments": 4,
-    "date": "2026-04-24",
     "source": "HackerNews"
   },
   {
