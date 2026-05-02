@@ -269,6 +269,24 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 1,
+      "total_points": 3,
+      "total_comments": 0,
+      "recent_issues_7d": 30,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "LLM desktop client – Cherry Studio",
+          "url": "https://github.com/CherryHQ/cherry-studio",
+          "points": 3,
+          "comments": 0,
+          "date": "2025-01-23",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/zhayujie/CowAgent": [
@@ -720,6 +738,40 @@
       "total_points": 10,
       "total_comments": 6,
       "recent_issues_7d": 13,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "Harnesses Explained: The Inner and Outer Workings of the Coding Agent Harness",
+          "url": "https://codagent.beehiiv.com/p/harnesses-explained",
+          "points": 6,
+          "comments": 4,
+          "date": "2026-04-24",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Locally Uncensored – Local AI desktop app(chat,codeagent,image/videogen,nocloud)",
+          "url": "https://github.com/PurpleDoubleD/locally-uncensored",
+          "points": 3,
+          "comments": 2,
+          "date": "2026-04-10",
+          "source": "HackerNews"
+        },
+        {
+          "title": "I built a product that allows you to generate a ad off of just a product url",
+          "url": "https://cutagent.vercel.app/",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-04-14",
+          "source": "HackerNews"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 3,
+      "total_points": 10,
+      "total_comments": 6,
+      "recent_issues_7d": 15,
       "has_discussions": false,
       "top_mentions": [
         {
@@ -1261,6 +1313,40 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 3,
+      "total_points": 8,
+      "total_comments": 0,
+      "recent_issues_7d": 30,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "NanoBrain – A Markdown+Git \"second brain\" for Claude Code",
+          "url": "https://nanobrain.app/",
+          "points": 3,
+          "comments": 0,
+          "date": "2026-05-01",
+          "source": "HackerNews"
+        },
+        {
+          "title": "NanoBrain – A Markdown+Git \"second brain\" for Claude Code",
+          "url": "https://github.com/siddsdixit/nanobrain",
+          "points": 3,
+          "comments": 0,
+          "date": "2026-05-01",
+          "source": "HackerNews"
+        },
+        {
+          "title": "ClawOS：Linux Panel for OpenClaw，nanobot，picoclaw，nullclaw",
+          "url": "https://github.com/mrytsr/clawos",
+          "points": 2,
+          "comments": 0,
+          "date": "2026-03-04",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/moeru-ai/airi": [
@@ -1736,6 +1822,40 @@
           "points": 4,
           "comments": 3,
           "date": "2026-04-30",
+          "source": "HackerNews"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 3,
+      "total_points": 6,
+      "total_comments": 0,
+      "recent_issues_7d": 30,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "The docs diff is the plan",
+          "url": "https://spicadust.com/blog/the-docs-diff-is-the-plan",
+          "points": 3,
+          "comments": 0,
+          "date": "2026-05-01",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Show HN: Single bash command to find the best matching HN jobs",
+          "url": "https://news.ycombinator.com/item?id=47980706",
+          "points": 2,
+          "comments": 0,
+          "date": "2026-05-01",
+          "source": "HackerNews"
+        },
+        {
+          "title": "What's new in Swift: April 2026 Edition",
+          "url": "https://swift.org/blog/whats-new-in-swift-april-2026/",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-05-01",
           "source": "HackerNews"
         }
       ]
@@ -2253,6 +2373,40 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 3,
+      "total_points": 220,
+      "total_comments": 24,
+      "recent_issues_7d": 11,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "An unsolicited guide to being a researcher [pdf]",
+          "url": "https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf",
+          "points": 217,
+          "comments": 24,
+          "date": "2026-03-19",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Show HN: Context-Aware Twitch Moderation",
+          "url": "https://modcheck.app",
+          "points": 2,
+          "comments": 0,
+          "date": "2026-04-08",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Show HN: Upvoicy – built feedback management SaaS for sale",
+          "url": "https://upvoicy.com/",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-03-09",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/NVIDIA/OpenShell": [
@@ -2767,6 +2921,40 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 3,
+      "total_points": 9,
+      "total_comments": 1,
+      "recent_issues_7d": 30,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "Autonomous AI Agents Become Secure by Design with Nvidia OpenShell",
+          "url": "https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/",
+          "points": 4,
+          "comments": 0,
+          "date": "2026-04-14",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Securing My Agent with Openshell",
+          "url": "https://suthakamal.substack.com/p/the-container-was-always-there",
+          "points": 3,
+          "comments": 1,
+          "date": "2026-04-01",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Nvidia OpenShell: safe, private runtime for autonomous AI agents",
+          "url": "https://github.com/nvidia/openshell",
+          "points": 2,
+          "comments": 0,
+          "date": "2026-04-21",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/mikeyobrien/ralph-orchestrator": [
@@ -3010,6 +3198,24 @@
       "total_points": 6,
       "total_comments": 0,
       "recent_issues_7d": 10,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "Show HN: Yet another tool to wrap agents in a loop",
+          "url": "https://github.com/mikeyobrien/ralph-orchestrator",
+          "points": 6,
+          "comments": 0,
+          "date": "2025-12-17",
+          "source": "HackerNews"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 1,
+      "total_points": 6,
+      "total_comments": 0,
+      "recent_issues_7d": 11,
       "has_discussions": false,
       "top_mentions": [
         {
@@ -3443,6 +3649,32 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 2,
+      "total_points": 4,
+      "total_comments": 1,
+      "recent_issues_7d": 10,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "Burned $250 in tokens on Day 1 with OpenClaw",
+          "url": "https://news.ycombinator.com/item?id=47162495",
+          "points": 3,
+          "comments": 1,
+          "date": "2026-02-26",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Show HN: A smart routing provider for OpenClaw",
+          "url": "https://clawpane.co",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-02-23",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/NousResearch/hermes-agent-self-evolution": [
@@ -3704,6 +3936,24 @@
       "total_points": 2,
       "total_comments": 0,
       "recent_issues_7d": 9,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "Hermes Agent Self-Evolution System: A Detailed Similarity Analysis with Evolver",
+          "url": "https://evomap.ai/blog/hermes-agent-evolver-similarity-analysis",
+          "points": 2,
+          "comments": 0,
+          "date": "2026-04-15",
+          "source": "HackerNews"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 1,
+      "total_points": 2,
+      "total_comments": 0,
+      "recent_issues_7d": 6,
       "has_discussions": false,
       "top_mentions": [
         {
@@ -4193,6 +4443,40 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 3,
+      "total_points": 4,
+      "total_comments": 0,
+      "recent_issues_7d": 13,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "Show HN: Open-Source FHIR –> OMOP Pipeline",
+          "url": "https://forge.foxtrotcommunications.net/",
+          "points": 2,
+          "comments": 0,
+          "date": "2026-05-02",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Is this roadmap for back end realistic?",
+          "url": "https://news.ycombinator.com/item?id=47973307",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-05-01",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Ask HN: How are people testing while using agent orchestrators?",
+          "url": "https://news.ycombinator.com/item?id=47970141",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-05-01",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/outsourc-e/hermes-workspace": [
@@ -4341,6 +4625,15 @@
       "recent_issues_7d": 30,
       "has_discussions": false,
       "top_mentions": []
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "recent_issues_7d": 30,
+      "has_discussions": false,
+      "top_mentions": []
     }
   ],
   "https://github.com/0xNyk/awesome-hermes-agent": [
@@ -4469,6 +4762,15 @@
       "recent_issues_7d": 12,
       "has_discussions": false,
       "top_mentions": []
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "recent_issues_7d": 13,
+      "has_discussions": false,
+      "top_mentions": []
     }
   ],
   "https://github.com/EKKOLearnAI/hermes-web-ui": [
@@ -4591,6 +4893,15 @@
     },
     {
       "date": "2026-05-01",
+      "mentions": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "recent_issues_7d": 30,
+      "has_discussions": false,
+      "top_mentions": []
+    },
+    {
+      "date": "2026-05-02",
       "mentions": 0,
       "total_points": 0,
       "total_comments": 0,
@@ -4810,6 +5121,24 @@
           "date": "2011-09-03",
           "source": "HackerNews"
         },
+        {
+          "title": "Simple self-hosted event management",
+          "url": "https://github.com/aarongodin/lightevent",
+          "points": 1,
+          "comments": 0,
+          "date": "2025-01-22",
+          "source": "HackerNews"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 1,
+      "total_points": 1,
+      "total_comments": 0,
+      "recent_issues_7d": 0,
+      "has_discussions": false,
+      "top_mentions": [
         {
           "title": "Simple self-hosted event management",
           "url": "https://github.com/aarongodin/lightevent",
@@ -5249,6 +5578,40 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 3,
+      "total_points": 5,
+      "total_comments": 2,
+      "recent_issues_7d": 2,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "How can perplexity.com persist on the browser without extension",
+          "url": "https://news.ycombinator.com/item?id=47978477",
+          "points": 2,
+          "comments": 2,
+          "date": "2026-05-01",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Show HN: BetterClaw – Compile a paragraph into a workflow that gates agent tools",
+          "url": "https://news.ycombinator.com/item?id=47973502",
+          "points": 2,
+          "comments": 0,
+          "date": "2026-05-01",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Show HN: TimeWith – iOS app to track relationships with the people who matter",
+          "url": "https://news.ycombinator.com/item?id=47975801",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-05-01",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/heurist-network/heurist-agent-framework": [
@@ -5427,6 +5790,15 @@
     },
     {
       "date": "2026-05-01",
+      "mentions": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "recent_issues_7d": 3,
+      "has_discussions": false,
+      "top_mentions": []
+    },
+    {
+      "date": "2026-05-02",
       "mentions": 0,
       "total_points": 0,
       "total_comments": 0,
@@ -5911,6 +6283,40 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 3,
+      "total_points": 5,
+      "total_comments": 2,
+      "recent_issues_7d": 0,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "Ask HN: Where is my UX after all those billions spent on LLM codegen?",
+          "url": "https://news.ycombinator.com/item?id=47978130",
+          "points": 3,
+          "comments": 1,
+          "date": "2026-05-01",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Show HN: Lib0xc, the C standard library you wish you had",
+          "url": "https://github.com/microsoft/lib0xc",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-05-01",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Show HN: Agent – Inline code annotations for AI agents",
+          "url": "https://github.com/codebasedlearning/agent-annotations-spec",
+          "points": 1,
+          "comments": 1,
+          "date": "2026-05-01",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/shuanbao0/agent-factory": [
@@ -6389,6 +6795,40 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 3,
+      "total_points": 6,
+      "total_comments": 0,
+      "recent_issues_7d": 0,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "Autoresearch for Integer Factorization",
+          "url": "https://github.com/iliazintchenko/agent-factoring",
+          "points": 4,
+          "comments": 0,
+          "date": "2026-03-29",
+          "source": "HackerNews"
+        },
+        {
+          "title": "AI-as-Code for Agent Factories",
+          "url": "https://re-cinq.github.io/wave/",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-03-15",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Multi-agent fleet management for coding agents",
+          "url": "https://github.com/supaku/agentfactory",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-03-15",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/openclaw/openclaw": [
@@ -6609,6 +7049,40 @@
           "url": "https://news.ycombinator.com/item?id=47971335",
           "points": 1,
           "comments": 1,
+          "date": "2026-05-01",
+          "source": "HackerNews"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 3,
+      "total_points": 7,
+      "total_comments": 21,
+      "recent_issues_7d": 30,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "What do you think of people buying Mac mini's to run AI?",
+          "url": "https://news.ycombinator.com/item?id=47971335",
+          "points": 4,
+          "comments": 18,
+          "date": "2026-05-01",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Show HN: BetterClaw – Compile a paragraph into a workflow that gates agent tools",
+          "url": "https://news.ycombinator.com/item?id=47973502",
+          "points": 2,
+          "comments": 0,
+          "date": "2026-05-01",
+          "source": "HackerNews"
+        },
+        {
+          "title": "OpenClaw Got Safer in Public",
+          "url": "https://openclaw.ai/blog/openclaw-security-in-public",
+          "points": 1,
+          "comments": 3,
           "date": "2026-05-01",
           "source": "HackerNews"
         }
@@ -6837,6 +7311,40 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 3,
+      "total_points": 12,
+      "total_comments": 0,
+      "recent_issues_7d": 30,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "Tooling Up Hermes Agent",
+          "url": "https://nedkarlovich.com/writing/tooling-up-hermes-agent",
+          "points": 9,
+          "comments": 0,
+          "date": "2026-04-29",
+          "source": "HackerNews"
+        },
+        {
+          "title": "OpenClaw vs. Hermes Agent: The race to build AI assistants that never forget",
+          "url": "https://thenewstack.io/persistent-ai-agents-compared/",
+          "points": 2,
+          "comments": 0,
+          "date": "2026-04-25",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Show HN: Web Client for Hermes Agent",
+          "url": "https://github.com/lotsoftick/hermes_client",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-04-27",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/farion1231/cc-switch": [
@@ -6932,6 +7440,24 @@
     },
     {
       "date": "2026-05-01",
+      "mentions": 1,
+      "total_points": 3,
+      "total_comments": 0,
+      "recent_issues_7d": 30,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "CC Switch: Claude Code and Codex Provider Switcher",
+          "url": "https://github.com/farion1231/cc-switch",
+          "points": 3,
+          "comments": 0,
+          "date": "2025-11-09",
+          "source": "HackerNews"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-02",
       "mentions": 1,
       "total_points": 3,
       "total_comments": 0,
@@ -7073,6 +7599,24 @@
       "total_points": 1,
       "total_comments": 0,
       "recent_issues_7d": 14,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "OpenClaw Skills",
+          "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-03-15",
+          "source": "HackerNews"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 1,
+      "total_points": 1,
+      "total_comments": 0,
+      "recent_issues_7d": 16,
       "has_discussions": false,
       "top_mentions": [
         {
@@ -7308,6 +7852,40 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 3,
+      "total_points": 8,
+      "total_comments": 5,
+      "recent_issues_7d": 30,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "Convicted former Harvard scientist rebuilds brain computer lab in China",
+          "url": "https://www.reuters.com/world/china/convicted-former-harvard-scientist-rebuilds-brain-computer-lab-china-2026-04-30/",
+          "points": 4,
+          "comments": 4,
+          "date": "2026-05-01",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Our poor sleeping habits are filling our brains with neurotoxins (2015)",
+          "url": "https://qz.com/424120/our-poor-sleeping-habits-could-be-filling-our-brains-with-neurotoxins",
+          "points": 3,
+          "comments": 1,
+          "date": "2026-05-01",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Agsist – free real-time grain market dashboard for US producers",
+          "url": "https://agsist.com/",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-05-02",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/jnMetaCode/agency-agents-zh": [
@@ -7362,6 +7940,15 @@
       "total_points": 0,
       "total_comments": 0,
       "recent_issues_7d": 13,
+      "has_discussions": false,
+      "top_mentions": []
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "recent_issues_7d": 14,
       "has_discussions": false,
       "top_mentions": []
     }
@@ -7430,6 +8017,15 @@
       "recent_issues_7d": 30,
       "has_discussions": false,
       "top_mentions": []
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "recent_issues_7d": 30,
+      "has_discussions": false,
+      "top_mentions": []
     }
   ],
   "https://github.com/alchaincyf/hermes-agent-orange-book": [
@@ -7486,6 +8082,15 @@
       "recent_issues_7d": 0,
       "has_discussions": false,
       "top_mentions": []
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "recent_issues_7d": 0,
+      "has_discussions": false,
+      "top_mentions": []
     }
   ],
   "https://github.com/fathah/hermes-desktop": [
@@ -7506,6 +8111,15 @@
       "recent_issues_7d": 24,
       "has_discussions": false,
       "top_mentions": []
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "recent_issues_7d": 26,
+      "has_discussions": false,
+      "top_mentions": []
     }
   ],
   "https://github.com/NousResearch/hermes-paperclip-adapter": [
@@ -7520,6 +8134,15 @@
     },
     {
       "date": "2026-05-01",
+      "mentions": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "recent_issues_7d": 30,
+      "has_discussions": false,
+      "top_mentions": []
+    },
+    {
+      "date": "2026-05-02",
       "mentions": 0,
       "total_points": 0,
       "total_comments": 0,
@@ -7549,6 +8172,24 @@
     },
     {
       "date": "2026-05-01",
+      "mentions": 1,
+      "total_points": 1,
+      "total_comments": 0,
+      "recent_issues_7d": 0,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "OpenClaw 101 – Guide to OpenClaw AI Assistant",
+          "url": "https://openclaw101.online",
+          "points": 1,
+          "comments": 0,
+          "date": "2026-02-05",
+          "source": "HackerNews"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-02",
       "mentions": 1,
       "total_points": 1,
       "total_comments": 0,
@@ -7634,6 +8275,40 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 3,
+      "total_points": 11,
+      "total_comments": 0,
+      "recent_issues_7d": 30,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "openclaw ggsql",
+          "url": "https://clawhub.ai/fanzhidongyzby/openclaw-ggsql",
+          "points": 7,
+          "comments": 0,
+          "date": "2026-04-29",
+          "source": "HackerNews"
+        },
+        {
+          "title": "30 ClawHub skills secretly turn AI agents into a crypto swarm",
+          "url": "https://www.theregister.com/2026/04/29/30_clawhub_skills_mine_crypto/",
+          "points": 2,
+          "comments": 0,
+          "date": "2026-04-29",
+          "source": "HackerNews"
+        },
+        {
+          "title": "30 ClawHub Skills Are Quietly Recruiting Your AI Agent into a Crypto Swarm",
+          "url": "https://www.manifold.security/blog/clawhub-clawswarm-agent-crypto-recruitment",
+          "points": 2,
+          "comments": 0,
+          "date": "2026-04-29",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/linuxhsj/openclaw-zero-token": [
@@ -7652,6 +8327,15 @@
       "total_points": 0,
       "total_comments": 0,
       "recent_issues_7d": 13,
+      "has_discussions": false,
+      "top_mentions": []
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "recent_issues_7d": 14,
       "has_discussions": false,
       "top_mentions": []
     }
@@ -7674,6 +8358,15 @@
       "recent_issues_7d": 14,
       "has_discussions": false,
       "top_mentions": []
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "recent_issues_7d": 16,
+      "has_discussions": false,
+      "top_mentions": []
     }
   ],
   "https://github.com/Gen-Verse/OpenClaw-RL": [
@@ -7692,6 +8385,15 @@
       "total_points": 0,
       "total_comments": 0,
       "recent_issues_7d": 13,
+      "has_discussions": false,
+      "top_mentions": []
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "recent_issues_7d": 11,
       "has_discussions": false,
       "top_mentions": []
     }
@@ -7764,6 +8466,40 @@
           "source": "HackerNews"
         }
       ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 3,
+      "total_points": 204,
+      "total_comments": 57,
+      "recent_issues_7d": 30,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "UK Biobank health data keeps ending up on GitHub",
+          "url": "https://biobank.rocher.lc",
+          "points": 197,
+          "comments": 57,
+          "date": "2026-04-23",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Researchers try to cut the genetic code from 20 to 19 amino acids",
+          "url": "https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/",
+          "points": 4,
+          "comments": 0,
+          "date": "2026-04-30",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Apple's New CEO Must Launch 5 Product Ecosystems or Miss the Next iPhone Moment",
+          "url": "https://greentic-ai.medium.com/apples-next-ceo-must-launch-these-5-product-ecosystems-or-miss-the-next-iphone-moment-68599533a491",
+          "points": 3,
+          "comments": 0,
+          "date": "2026-04-25",
+          "source": "HackerNews"
+        }
+      ]
     }
   ],
   "https://github.com/EntropyFlux/VibeWorker": [
@@ -7795,6 +8531,15 @@
     },
     {
       "date": "2026-05-01",
+      "mentions": 0,
+      "total_points": 0,
+      "total_comments": 0,
+      "recent_issues_7d": 0,
+      "has_discussions": false,
+      "top_mentions": []
+    },
+    {
+      "date": "2026-05-02",
       "mentions": 0,
       "total_points": 0,
       "total_comments": 0,
@@ -7868,6 +8613,40 @@
           "points": 2,
           "comments": 0,
           "date": "2026-04-21",
+          "source": "HackerNews"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-02",
+      "mentions": 3,
+      "total_points": 13,
+      "total_comments": 4,
+      "recent_issues_7d": 2,
+      "has_discussions": false,
+      "top_mentions": [
+        {
+          "title": "Show HN: Nimbalyst open-source visual workspace for ClaudeCode, Codex, OpenCode",
+          "url": "https://github.com/Nimbalyst/nimbalyst",
+          "points": 7,
+          "comments": 4,
+          "date": "2026-04-30",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Show HN: You can now run Gemini CLI in the browser",
+          "url": "https://browsercode.io",
+          "points": 4,
+          "comments": 0,
+          "date": "2026-04-30",
+          "source": "HackerNews"
+        },
+        {
+          "title": "Lightweight OpenCode profile for routine dev work with focused agents",
+          "url": "https://github.com/gc-victor/supersimple",
+          "points": 2,
+          "comments": 0,
+          "date": "2026-05-01",
           "source": "HackerNews"
         }
       ]
