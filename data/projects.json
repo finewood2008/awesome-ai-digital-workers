@@ -4,7 +4,7 @@
     "url": "https://github.com/CherryHQ/cherry-studio",
     "owner": "CherryHQ",
     "description": "🍒 全能 LLM 桌面客户端，支持多模型提供商，开放访问前沿大模型",
-    "stars": 44877,
+    "stars": 44923,
     "language": "TypeScript",
     "topics": [],
     "discovered": "2026-04-20",
@@ -12,18 +12,18 @@
     "license": "AGPL-3.0",
     "quality_score": 85,
     "growth": {
-      "daily": 44,
-      "weekly": 567,
-      "monthly": 2268,
+      "daily": 46,
+      "weekly": 526,
+      "monthly": 2104,
       "trend": "🚀 explosive"
     },
-    "commits_7d": 19,
+    "commits_7d": 18,
     "commits_30d": 100,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 1,
       "points_today": 3,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -31,7 +31,7 @@
     "url": "https://github.com/zhayujie/CowAgent",
     "owner": "zhayujie",
     "description": "基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长。支持微信/飞书/钉钉/企微/QQ/公众号/网页等接入，可快速搭建个人AI助理和企业数字员工",
-    "stars": 43950,
+    "stars": 43976,
     "language": "Python",
     "topics": [],
     "discovered": "2026-04-20",
@@ -39,18 +39,18 @@
     "license": "MIT",
     "quality_score": 85,
     "growth": {
-      "daily": 30,
-      "weekly": 254,
-      "monthly": 1016,
+      "daily": 26,
+      "weekly": 262,
+      "monthly": 1048,
       "trend": "📈 fast"
     },
     "commits_7d": 6,
-    "commits_30d": 99,
-    "last_tracked": "2026-05-02",
+    "commits_30d": 97,
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 3,
       "points_today": 10,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -58,7 +58,7 @@
     "url": "https://github.com/HKUDS/nanobot",
     "owner": "HKUDS",
     "description": "🐈 nanobot: The Ultra-Lightweight Personal AI Agent",
-    "stars": 41477,
+    "stars": 41536,
     "language": "Python",
     "topics": [],
     "discovered": "2026-04-20",
@@ -66,18 +66,18 @@
     "license": "MIT",
     "quality_score": 99,
     "growth": {
-      "daily": 66,
-      "weekly": 686,
-      "monthly": 2744,
+      "daily": 59,
+      "weekly": 665,
+      "monthly": 2660,
       "trend": "🚀 explosive"
     },
     "commits_7d": 100,
     "commits_30d": 100,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 3,
-      "points_today": 8,
-      "last_checked": "2026-05-02"
+      "points_today": 6,
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -85,7 +85,7 @@
     "url": "https://github.com/moeru-ai/airi",
     "owner": "moeru-ai",
     "description": "💖🧸 Self hosted AI Companion, capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-    "stars": 38870,
+    "stars": 38907,
     "language": "TypeScript",
     "topics": [],
     "discovered": "2026-04-20",
@@ -93,18 +93,18 @@
     "license": "MIT",
     "quality_score": 91,
     "growth": {
-      "daily": 45,
-      "weekly": 279,
-      "monthly": 1116,
+      "daily": 37,
+      "weekly": 282,
+      "monthly": 1128,
       "trend": "📈 fast"
     },
-    "commits_7d": 48,
+    "commits_7d": 44,
     "commits_30d": 100,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 3,
-      "points_today": 6,
-      "last_checked": "2026-05-02"
+      "points_today": 23,
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -112,26 +112,26 @@
     "url": "https://github.com/Upsonic/Upsonic",
     "owner": "Upsonic",
     "description": "Build autonomous AI agents in Python.",
-    "stars": 7835,
+    "stars": 7838,
     "language": "Python",
     "topics": [],
     "discovered": "2026-04-20",
     "category": "Agent 框架",
     "license": "MIT",
-    "quality_score": 56,
+    "quality_score": 61,
     "growth": {
-      "daily": 1,
-      "weekly": 0,
-      "monthly": 0,
+      "daily": 3,
+      "weekly": 3,
+      "monthly": 12,
       "trend": "➡️ stable"
     },
     "commits_7d": 3,
-    "commits_30d": 33,
-    "last_tracked": "2026-05-02",
+    "commits_30d": 28,
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 3,
       "points_today": 220,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -139,7 +139,7 @@
     "url": "https://github.com/NVIDIA/OpenShell",
     "owner": "NVIDIA",
     "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
-    "stars": 5480,
+    "stars": 5504,
     "language": "Rust",
     "topics": [],
     "discovered": "2026-04-20",
@@ -147,18 +147,18 @@
     "license": "Apache-2.0",
     "quality_score": 81,
     "growth": {
-      "daily": 17,
-      "weekly": 165,
-      "monthly": 660,
+      "daily": 24,
+      "weekly": 179,
+      "monthly": 716,
       "trend": "📈 fast"
     },
-    "commits_7d": 48,
+    "commits_7d": 50,
     "commits_30d": 100,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 3,
       "points_today": 9,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -166,7 +166,7 @@
     "url": "https://github.com/mikeyobrien/ralph-orchestrator",
     "owner": "mikeyobrien",
     "description": "An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration",
-    "stars": 2788,
+    "stars": 2795,
     "language": "Rust",
     "topics": [],
     "discovered": "2026-04-20",
@@ -174,18 +174,18 @@
     "license": "MIT",
     "quality_score": 60,
     "growth": {
-      "daily": 4,
-      "weekly": 32,
-      "monthly": 128,
+      "daily": 7,
+      "weekly": 36,
+      "monthly": 144,
       "trend": "📊 steady"
     },
-    "commits_7d": 8,
-    "commits_30d": 23,
-    "last_tracked": "2026-05-02",
+    "commits_7d": 9,
+    "commits_30d": 24,
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 1,
       "points_today": 6,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -193,26 +193,26 @@
     "url": "https://github.com/qingchencloud/clawpanel",
     "owner": "qingchencloud",
     "description": "🦞 OpenClaw & Hermes Agent 多引擎 AI 管理面板 — 内置 AI 助手（工具调用+图片识别+多模态），一键安装 | Tauri v2 跨平台桌面应用 | 11 种语言",
-    "stars": 2612,
+    "stars": 2619,
     "language": "JavaScript",
     "topics": [],
     "discovered": "2026-04-20",
     "category": "Hermes / OpenClaw 生态",
     "license": "NOASSERTION",
-    "quality_score": 62,
+    "quality_score": 57,
     "growth": {
-      "daily": 8,
-      "weekly": 93,
-      "monthly": 372,
+      "daily": 7,
+      "weekly": 83,
+      "monthly": 332,
       "trend": "📊 steady"
     },
-    "commits_7d": 5,
-    "commits_30d": 100,
-    "last_tracked": "2026-05-02",
+    "commits_7d": 2,
+    "commits_30d": 96,
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 2,
       "points_today": 4,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -220,7 +220,7 @@
     "url": "https://github.com/NousResearch/hermes-agent-self-evolution",
     "owner": "NousResearch",
     "description": "⚒ Evolutionary self-improvement for Hermes Agent — optimize skills, prompts, and code using DSPy + GEPA",
-    "stars": 2672,
+    "stars": 2693,
     "language": "Python",
     "topics": [],
     "discovered": "2026-04-20",
@@ -228,18 +228,18 @@
     "license": "Unknown",
     "quality_score": 38,
     "growth": {
-      "daily": 31,
-      "weekly": 452,
-      "monthly": 1808,
+      "daily": 21,
+      "weekly": 430,
+      "monthly": 1720,
       "trend": "📈 fast"
     },
     "commits_7d": 0,
     "commits_30d": 0,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 1,
       "points_today": 2,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -253,7 +253,7 @@
     "discovered": "2026-04-20",
     "category": "Agent 框架",
     "license": "Unknown",
-    "quality_score": 30,
+    "quality_score": 25,
     "growth": {
       "daily": 0,
       "weekly": 0,
@@ -261,12 +261,12 @@
       "trend": "➡️ stable"
     },
     "commits_7d": 4,
-    "commits_30d": 10,
-    "last_tracked": "2026-05-02",
+    "commits_30d": 9,
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 3,
-      "points_today": 4,
-      "last_checked": "2026-05-02"
+      "points_today": 7,
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -274,26 +274,26 @@
     "url": "https://github.com/outsourc-e/hermes-workspace",
     "owner": "outsourc-e",
     "description": "Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.",
-    "stars": 2819,
-    "language": "TypeScript",
+    "stars": 2967,
+    "language": "JavaScript",
     "topics": [],
     "discovered": "2026-04-20",
     "category": "Hermes / OpenClaw 生态",
     "license": "MIT",
     "quality_score": 88,
     "growth": {
-      "daily": 134,
-      "weekly": 558,
-      "monthly": 2232,
+      "daily": 148,
+      "weekly": 641,
+      "monthly": 2564,
       "trend": "🚀 explosive"
     },
-    "commits_7d": 72,
+    "commits_7d": 99,
     "commits_30d": 100,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 0,
       "points_today": 0,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -301,7 +301,7 @@
     "url": "https://github.com/0xNyk/awesome-hermes-agent",
     "owner": "0xNyk",
     "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
-    "stars": 2207,
+    "stars": 2262,
     "language": "",
     "topics": [],
     "discovered": "2026-04-20",
@@ -309,18 +309,18 @@
     "license": "NOASSERTION",
     "quality_score": 59,
     "growth": {
-      "daily": 84,
-      "weekly": 479,
-      "monthly": 1916,
+      "daily": 55,
+      "weekly": 431,
+      "monthly": 1724,
       "trend": "📈 fast"
     },
     "commits_7d": 0,
     "commits_30d": 12,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 0,
       "points_today": 0,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -328,7 +328,7 @@
     "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
     "owner": "EKKOLearnAI",
     "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration",
-    "stars": 3242,
+    "stars": 3333,
     "language": "TypeScript",
     "topics": [],
     "discovered": "2026-04-20",
@@ -337,17 +337,17 @@
     "quality_score": 88,
     "growth": {
       "daily": 91,
-      "weekly": 1218,
-      "monthly": 4872,
+      "weekly": 1172,
+      "monthly": 4688,
       "trend": "🚀 explosive"
     },
-    "commits_7d": 56,
+    "commits_7d": 46,
     "commits_30d": 100,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 0,
       "points_today": 0,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -355,7 +355,7 @@
     "url": "https://github.com/wanxingai/LightAgent",
     "owner": "wanxingai",
     "description": "LightAgent: Lightweight AI agent framework with memory, tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs. Open-source with MCP/SSE protocol integration.",
-    "stars": 918,
+    "stars": 922,
     "language": "Python",
     "topics": [],
     "discovered": "2026-04-20",
@@ -363,18 +363,18 @@
     "license": "Apache-2.0",
     "quality_score": 53,
     "growth": {
-      "daily": 1,
-      "weekly": 28,
-      "monthly": 112,
+      "daily": 4,
+      "weekly": 26,
+      "monthly": 104,
       "trend": "➡️ stable"
     },
     "commits_7d": 6,
     "commits_30d": 9,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
-      "mentions_today": 1,
-      "points_today": 1,
-      "last_checked": "2026-05-02"
+      "mentions_today": 2,
+      "points_today": 155,
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -382,7 +382,7 @@
     "url": "https://github.com/openonion/connectonion",
     "owner": "openonion",
     "description": "The Best AI Agent Framework for Agent Collaboration.",
-    "stars": 963,
+    "stars": 975,
     "language": "Python",
     "topics": [],
     "discovered": "2026-04-20",
@@ -390,18 +390,18 @@
     "license": "Apache-2.0",
     "quality_score": 56,
     "growth": {
-      "daily": 10,
-      "weekly": 72,
-      "monthly": 288,
+      "daily": 12,
+      "weekly": 68,
+      "monthly": 272,
       "trend": "📊 steady"
     },
     "commits_7d": 0,
     "commits_30d": 35,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
-      "mentions_today": 3,
-      "points_today": 5,
-      "last_checked": "2026-05-02"
+      "mentions_today": 2,
+      "points_today": 54,
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -409,26 +409,26 @@
     "url": "https://github.com/heurist-network/heurist-agent-framework",
     "owner": "heurist-network",
     "description": "A flexible multi-interface AI agent framework for building agents with reasoning, tool use, memory, deep research, blockchain interaction, MCP, and agents-as-a-service.",
-    "stars": 804,
+    "stars": 806,
     "language": "Python",
     "topics": [],
     "discovered": "2026-04-20",
     "category": "Agent 框架",
     "license": "NOASSERTION",
-    "quality_score": 31,
+    "quality_score": 29,
     "growth": {
       "daily": 2,
-      "weekly": 6,
-      "monthly": 24,
+      "weekly": 5,
+      "monthly": 20,
       "trend": "➡️ stable"
     },
     "commits_7d": 0,
     "commits_30d": 4,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 0,
       "points_today": 0,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -451,11 +451,11 @@
     },
     "commits_7d": 0,
     "commits_30d": 0,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 3,
-      "points_today": 5,
-      "last_checked": "2026-05-02"
+      "points_today": 7,
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -477,12 +477,12 @@
       "trend": "➡️ stable"
     },
     "commits_7d": 0,
-    "commits_30d": 4,
-    "last_tracked": "2026-05-02",
+    "commits_30d": 2,
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 3,
       "points_today": 6,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -490,7 +490,7 @@
     "url": "https://github.com/openclaw/openclaw",
     "owner": "openclaw",
     "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-    "stars": 367254,
+    "stars": 367623,
     "language": "TypeScript",
     "topics": [
       "ai",
@@ -505,19 +505,19 @@
     "category": "Hermes / OpenClaw 生态",
     "license": "MIT",
     "growth": {
-      "daily": 393,
-      "weekly": 2751,
-      "monthly": 11004,
+      "daily": 369,
+      "weekly": 2583,
+      "monthly": 10332,
       "trend": "🚀 explosive"
     },
     "quality_score": 96,
     "commits_7d": 100,
     "commits_30d": 100,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 3,
-      "points_today": 7,
-      "last_checked": "2026-05-02"
+      "points_today": 5,
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -525,7 +525,7 @@
     "url": "https://github.com/NousResearch/hermes-agent",
     "owner": "NousResearch",
     "description": "The agent that grows with you",
-    "stars": 128517,
+    "stars": 130004,
     "language": "Python",
     "topics": [
       "ai",
@@ -549,19 +549,19 @@
     "category": "Hermes / OpenClaw 生态",
     "license": "MIT",
     "growth": {
-      "daily": 1515,
-      "weekly": 10605,
-      "monthly": 42420,
+      "daily": 1487,
+      "weekly": 10409,
+      "monthly": 41636,
       "trend": "🚀 explosive"
     },
     "quality_score": 100,
     "commits_7d": 100,
     "commits_30d": 100,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 3,
       "points_today": 12,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -569,7 +569,7 @@
     "url": "https://github.com/farion1231/cc-switch",
     "owner": "farion1231",
     "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.",
-    "stars": 57276,
+    "stars": 57977,
     "language": "Rust",
     "topics": [
       "ai-tools",
@@ -595,19 +595,19 @@
     "category": "Hermes / OpenClaw 生态",
     "license": "MIT",
     "growth": {
-      "daily": 641,
-      "weekly": 4487,
-      "monthly": 17948,
+      "daily": 701,
+      "weekly": 4907,
+      "monthly": 19628,
       "trend": "🚀 explosive"
     },
     "quality_score": 100,
-    "commits_7d": 36,
+    "commits_7d": 41,
     "commits_30d": 100,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 1,
       "points_today": 3,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -615,7 +615,7 @@
     "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
     "owner": "VoltAgent",
     "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
-    "stars": 47721,
+    "stars": 47790,
     "language": "",
     "topics": [
       "agent-skills",
@@ -635,19 +635,19 @@
     "category": "Hermes / OpenClaw 生态",
     "license": "MIT",
     "growth": {
-      "daily": 51,
-      "weekly": 357,
-      "monthly": 1428,
+      "daily": 69,
+      "weekly": 483,
+      "monthly": 1932,
       "trend": "📈 fast"
     },
     "quality_score": 78,
     "commits_7d": 0,
     "commits_30d": 38,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 1,
       "points_today": 1,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -655,26 +655,26 @@
     "url": "https://github.com/garrytan/gbrain",
     "owner": "garrytan",
     "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-    "stars": 12661,
+    "stars": 12791,
     "language": "TypeScript",
     "topics": [],
     "discovered": "2026-04-27",
     "category": "Hermes / OpenClaw 生态",
     "license": "MIT",
     "growth": {
-      "daily": 148,
-      "weekly": 1036,
-      "monthly": 4144,
+      "daily": 130,
+      "weekly": 910,
+      "monthly": 3640,
       "trend": "🚀 explosive"
     },
     "quality_score": 90,
     "commits_7d": 26,
     "commits_30d": 100,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 3,
-      "points_today": 8,
-      "last_checked": "2026-05-02"
+      "points_today": 6,
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -682,7 +682,7 @@
     "url": "https://github.com/jnMetaCode/agency-agents-zh",
     "owner": "jnMetaCode",
     "description": "🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）",
-    "stars": 9377,
+    "stars": 9489,
     "language": "Shell",
     "topics": [
       "agency-orchestrator",
@@ -709,19 +709,19 @@
     "category": "Hermes / OpenClaw 生态",
     "license": "MIT",
     "growth": {
-      "daily": 103,
-      "weekly": 721,
-      "monthly": 2884,
+      "daily": 112,
+      "weekly": 784,
+      "monthly": 3136,
       "trend": "🚀 explosive"
     },
-    "quality_score": 77,
-    "commits_7d": 2,
-    "commits_30d": 26,
-    "last_tracked": "2026-05-02",
+    "quality_score": 82,
+    "commits_7d": 5,
+    "commits_30d": 28,
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 0,
       "points_today": 0,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -729,7 +729,7 @@
     "url": "https://github.com/nesquena/hermes-webui",
     "owner": "nesquena",
     "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-    "stars": 5280,
+    "stars": 5418,
     "language": "Python",
     "topics": [
       "agent",
@@ -742,19 +742,19 @@
     "category": "Hermes / OpenClaw 生态",
     "license": "MIT",
     "growth": {
-      "daily": 122,
-      "weekly": 854,
-      "monthly": 3416,
+      "daily": 138,
+      "weekly": 966,
+      "monthly": 3864,
       "trend": "🚀 explosive"
     },
     "quality_score": 92,
     "commits_7d": 100,
     "commits_30d": 100,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 0,
       "points_today": 0,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -762,26 +762,26 @@
     "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
     "owner": "alchaincyf",
     "description": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
-    "stars": 3440,
+    "stars": 3469,
     "language": "",
     "topics": [],
     "discovered": "2026-04-27",
     "category": "Hermes / OpenClaw 生态",
     "license": "Unknown",
     "growth": {
-      "daily": 21,
-      "weekly": 147,
-      "monthly": 588,
+      "daily": 29,
+      "weekly": 203,
+      "monthly": 812,
       "trend": "📈 fast"
     },
     "quality_score": 45,
     "commits_7d": 0,
     "commits_30d": 10,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 0,
       "points_today": 0,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -789,26 +789,26 @@
     "url": "https://github.com/fathah/hermes-desktop",
     "owner": "fathah",
     "description": "Desktop Companion for Hermes Agent",
-    "stars": 841,
+    "stars": 913,
     "language": "TypeScript",
     "topics": [],
     "discovered": "2026-04-29",
     "category": "Hermes / OpenClaw 生态",
     "license": "MIT",
-    "quality_score": 73,
+    "quality_score": 78,
     "growth": {
-      "daily": 55,
-      "weekly": 385,
-      "monthly": 1540,
-      "trend": "📈 fast"
+      "daily": 72,
+      "weekly": 504,
+      "monthly": 2016,
+      "trend": "🚀 explosive"
     },
-    "commits_7d": 24,
+    "commits_7d": 26,
     "commits_30d": 100,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 0,
       "points_today": 0,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -816,26 +816,26 @@
     "url": "https://github.com/NousResearch/hermes-paperclip-adapter",
     "owner": "NousResearch",
     "description": "Paperclip adapter for Hermes Agent — run Hermes as a managed employee in a Paperclip company",
-    "stars": 1054,
+    "stars": 1071,
     "language": "TypeScript",
     "topics": [],
     "discovered": "2026-04-29",
     "category": "Hermes / OpenClaw 生态",
     "license": "MIT",
-    "quality_score": 50,
+    "quality_score": 55,
     "growth": {
-      "daily": 14,
-      "weekly": 98,
-      "monthly": 392,
-      "trend": "📊 steady"
+      "daily": 17,
+      "weekly": 119,
+      "monthly": 476,
+      "trend": "📈 fast"
     },
     "commits_7d": 0,
     "commits_30d": 3,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 0,
       "points_today": 0,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -849,20 +849,20 @@
     "discovered": "2026-04-29",
     "category": "Hermes / OpenClaw 生态",
     "license": "Unknown",
-    "quality_score": 41,
+    "quality_score": 31,
     "growth": {
-      "daily": 5,
-      "weekly": 35,
-      "monthly": 140,
-      "trend": "📊 steady"
+      "daily": 0,
+      "weekly": 0,
+      "monthly": 0,
+      "trend": "➡️ stable"
     },
     "commits_7d": 0,
-    "commits_30d": 11,
-    "last_tracked": "2026-05-02",
+    "commits_30d": 10,
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 1,
       "points_today": 1,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -870,26 +870,26 @@
     "url": "https://github.com/openclaw/clawhub",
     "owner": "openclaw",
     "description": "Skill Directory for OpenClaw",
-    "stars": 8385,
+    "stars": 8401,
     "language": "TypeScript",
     "topics": [],
     "discovered": "2026-04-29",
     "category": "Hermes / OpenClaw 生态",
     "license": "MIT",
-    "quality_score": 71,
+    "quality_score": 81,
     "growth": {
-      "daily": 7,
-      "weekly": 49,
-      "monthly": 196,
-      "trend": "📊 steady"
+      "daily": 16,
+      "weekly": 112,
+      "monthly": 448,
+      "trend": "📈 fast"
     },
     "commits_7d": 100,
     "commits_30d": 100,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 3,
       "points_today": 11,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -897,7 +897,7 @@
     "url": "https://github.com/linuxhsj/openclaw-zero-token",
     "owner": "linuxhsj",
     "description": "OpenClaw: Use All Major AI Models NO API Token! Claude/ChatGPT/Gemini/DeepSeek/Doubao/Grok/Qwen/Manus/Kimi",
-    "stars": 4651,
+    "stars": 4672,
     "language": "TypeScript",
     "topics": [],
     "discovered": "2026-04-29",
@@ -905,18 +905,18 @@
     "license": "MIT",
     "quality_score": 62,
     "growth": {
-      "daily": 29,
-      "weekly": 203,
-      "monthly": 812,
+      "daily": 21,
+      "weekly": 147,
+      "monthly": 588,
       "trend": "📈 fast"
     },
     "commits_7d": 0,
-    "commits_30d": 38,
-    "last_tracked": "2026-05-02",
+    "commits_30d": 36,
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 0,
       "points_today": 0,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -924,7 +924,7 @@
     "url": "https://github.com/abhi1693/openclaw-mission-control",
     "owner": "abhi1693",
     "description": "AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.",
-    "stars": 3880,
+    "stars": 3885,
     "language": "TypeScript",
     "topics": [],
     "discovered": "2026-04-29",
@@ -939,11 +939,11 @@
     },
     "commits_7d": 0,
     "commits_30d": 3,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 0,
       "points_today": 0,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -951,7 +951,7 @@
     "url": "https://github.com/Gen-Verse/OpenClaw-RL",
     "owner": "Gen-Verse",
     "description": "OpenClaw-RL: Train any agent simply by talking",
-    "stars": 5194,
+    "stars": 5198,
     "language": "Python",
     "topics": [],
     "discovered": "2026-04-29",
@@ -959,18 +959,18 @@
     "license": "Apache-2.0",
     "quality_score": 70,
     "growth": {
-      "daily": 7,
-      "weekly": 49,
-      "monthly": 196,
-      "trend": "📊 steady"
+      "daily": 4,
+      "weekly": 28,
+      "monthly": 112,
+      "trend": "➡️ stable"
     },
     "commits_7d": 5,
     "commits_30d": 82,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 0,
       "points_today": 0,
-      "last_checked": "2026-05-02"
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -991,13 +991,13 @@
       "monthly": 0,
       "trend": "➡️ stable"
     },
-    "commits_7d": 24,
+    "commits_7d": 27,
     "commits_30d": 100,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 3,
-      "points_today": 204,
-      "last_checked": "2026-05-02"
+      "points_today": 11,
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -1020,11 +1020,11 @@
     },
     "commits_7d": 0,
     "commits_30d": 0,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
-      "mentions_today": 0,
-      "points_today": 0,
-      "last_checked": "2026-05-02"
+      "mentions_today": 2,
+      "points_today": 7,
+      "last_checked": "2026-05-03"
     }
   },
   {
@@ -1047,11 +1047,11 @@
     },
     "commits_7d": 0,
     "commits_30d": 0,
-    "last_tracked": "2026-05-02",
+    "last_tracked": "2026-05-03",
     "social_pulse": {
       "mentions_today": 3,
-      "points_today": 13,
-      "last_checked": "2026-05-02"
+      "points_today": 15,
+      "last_checked": "2026-05-03"
     }
   }
 ]

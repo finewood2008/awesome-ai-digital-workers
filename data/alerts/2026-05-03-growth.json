@@ -1,0 +1,223 @@
+[
+  {
+    "name": "cherry-studio",
+    "url": "https://github.com/CherryHQ/cherry-studio",
+    "stars": 44923,
+    "growth": {
+      "daily": 46,
+      "weekly": 526,
+      "monthly": 2104,
+      "trend": "🚀 explosive"
+    },
+    "score": 85,
+    "reason": "星星增速异常：日+46，周+526"
+  },
+  {
+    "name": "CowAgent",
+    "url": "https://github.com/zhayujie/CowAgent",
+    "stars": 43976,
+    "growth": {
+      "daily": 26,
+      "weekly": 262,
+      "monthly": 1048,
+      "trend": "📈 fast"
+    },
+    "score": 85,
+    "reason": "星星增速异常：日+26，周+262"
+  },
+  {
+    "name": "nanobot",
+    "url": "https://github.com/HKUDS/nanobot",
+    "stars": 41536,
+    "growth": {
+      "daily": 59,
+      "weekly": 665,
+      "monthly": 2660,
+      "trend": "🚀 explosive"
+    },
+    "score": 99,
+    "reason": "星星增速异常：日+59，周+665"
+  },
+  {
+    "name": "airi",
+    "url": "https://github.com/moeru-ai/airi",
+    "stars": 38907,
+    "growth": {
+      "daily": 37,
+      "weekly": 282,
+      "monthly": 1128,
+      "trend": "📈 fast"
+    },
+    "score": 91,
+    "reason": "星星增速异常：日+37，周+282"
+  },
+  {
+    "name": "hermes-agent-self-evolution",
+    "url": "https://github.com/NousResearch/hermes-agent-self-evolution",
+    "stars": 2693,
+    "growth": {
+      "daily": 21,
+      "weekly": 430,
+      "monthly": 1720,
+      "trend": "📈 fast"
+    },
+    "score": 38,
+    "reason": "星星增速异常：日+21，周+430"
+  },
+  {
+    "name": "hermes-workspace",
+    "url": "https://github.com/outsourc-e/hermes-workspace",
+    "stars": 2967,
+    "growth": {
+      "daily": 148,
+      "weekly": 641,
+      "monthly": 2564,
+      "trend": "🚀 explosive"
+    },
+    "score": 88,
+    "reason": "星星增速异常：日+148，周+641"
+  },
+  {
+    "name": "awesome-hermes-agent",
+    "url": "https://github.com/0xNyk/awesome-hermes-agent",
+    "stars": 2262,
+    "growth": {
+      "daily": 55,
+      "weekly": 431,
+      "monthly": 1724,
+      "trend": "📈 fast"
+    },
+    "score": 59,
+    "reason": "星星增速异常：日+55，周+431"
+  },
+  {
+    "name": "hermes-web-ui",
+    "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+    "stars": 3333,
+    "growth": {
+      "daily": 91,
+      "weekly": 1172,
+      "monthly": 4688,
+      "trend": "🚀 explosive"
+    },
+    "score": 88,
+    "reason": "星星增速异常：日+91，周+1172"
+  },
+  {
+    "name": "openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "stars": 367623,
+    "growth": {
+      "daily": 369,
+      "weekly": 2583,
+      "monthly": 10332,
+      "trend": "🚀 explosive"
+    },
+    "score": 96,
+    "reason": "星星增速异常：日+369，周+2583"
+  },
+  {
+    "name": "hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "stars": 130004,
+    "growth": {
+      "daily": 1487,
+      "weekly": 10409,
+      "monthly": 41636,
+      "trend": "🚀 explosive"
+    },
+    "score": 100,
+    "reason": "星星增速异常：日+1487，周+10409"
+  },
+  {
+    "name": "cc-switch",
+    "url": "https://github.com/farion1231/cc-switch",
+    "stars": 57977,
+    "growth": {
+      "daily": 701,
+      "weekly": 4907,
+      "monthly": 19628,
+      "trend": "🚀 explosive"
+    },
+    "score": 100,
+    "reason": "星星增速异常：日+701，周+4907"
+  },
+  {
+    "name": "awesome-openclaw-skills",
+    "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+    "stars": 47790,
+    "growth": {
+      "daily": 69,
+      "weekly": 483,
+      "monthly": 1932,
+      "trend": "📈 fast"
+    },
+    "score": 78,
+    "reason": "星星增速异常：日+69，周+483"
+  },
+  {
+    "name": "gbrain",
+    "url": "https://github.com/garrytan/gbrain",
+    "stars": 12791,
+    "growth": {
+      "daily": 130,
+      "weekly": 910,
+      "monthly": 3640,
+      "trend": "🚀 explosive"
+    },
+    "score": 90,
+    "reason": "星星增速异常：日+130，周+910"
+  },
+  {
+    "name": "agency-agents-zh",
+    "url": "https://github.com/jnMetaCode/agency-agents-zh",
+    "stars": 9489,
+    "growth": {
+      "daily": 112,
+      "weekly": 784,
+      "monthly": 3136,
+      "trend": "🚀 explosive"
+    },
+    "score": 82,
+    "reason": "星星增速异常：日+112，周+784"
+  },
+  {
+    "name": "hermes-webui",
+    "url": "https://github.com/nesquena/hermes-webui",
+    "stars": 5418,
+    "growth": {
+      "daily": 138,
+      "weekly": 966,
+      "monthly": 3864,
+      "trend": "🚀 explosive"
+    },
+    "score": 92,
+    "reason": "星星增速异常：日+138，周+966"
+  },
+  {
+    "name": "hermes-agent-orange-book",
+    "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
+    "stars": 3469,
+    "growth": {
+      "daily": 29,
+      "weekly": 203,
+      "monthly": 812,
+      "trend": "📈 fast"
+    },
+    "score": 45,
+    "reason": "星星增速异常：日+29，周+203"
+  },
+  {
+    "name": "hermes-desktop",
+    "url": "https://github.com/fathah/hermes-desktop",
+    "stars": 913,
+    "growth": {
+      "daily": 72,
+      "weekly": 504,
+      "monthly": 2016,
+      "trend": "🚀 explosive"
+    },
+    "score": 78,
+    "reason": "星星增速异常：日+72，周+504"
+  }
+]

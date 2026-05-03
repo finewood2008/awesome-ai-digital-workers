@@ -1,5 +1,13 @@
 [
   {
+    "title": "Show HN: I'm running parallel Pi agents on a local sandbox",
+    "url": "https://github.com/CelestoAI/SmolVM/",
+    "points": 2,
+    "comments": 0,
+    "date": "2026-05-03",
+    "source": "HackerNews"
+  },
+  {
     "title": "Show HN: BetterClaw – Compile a paragraph into a workflow that gates agent tools",
     "url": "https://news.ycombinator.com/item?id=47973502",
     "points": 2,
@@ -16,11 +24,11 @@
     "source": "HackerNews"
   },
   {
-    "title": "Show HN: AgentPort – Open-source Security Gateway For Agents",
-    "url": "https://agentport.sh/",
-    "points": 6,
-    "comments": 3,
-    "date": "2026-04-29",
+    "title": "Show HN: A marketplace for LLM-powered webapps earning on token margins",
+    "url": "https://codeplusequalsai.com/dashboard",
+    "points": 1,
+    "comments": 0,
+    "date": "2026-05-02",
     "source": "HackerNews"
   },
   {
@@ -37,14 +45,6 @@
     "points": 4,
     "comments": 4,
     "date": "2026-04-30",
-    "source": "HackerNews"
-  },
-  {
-    "title": "Show HN: iClaw is part OpenClaw, part Siri, powered by Apple Intelligence",
-    "url": "https://barrasso.me/posts/2026-04-27-iclaw-ai-agent-using-apple-intelligence/",
-    "points": 5,
-    "comments": 0,
-    "date": "2026-04-28",
     "source": "HackerNews"
   },
   {
@@ -74,7 +74,7 @@
   {
     "title": "Show HN: iClaw is part OpenClaw, part Siri, powered by Apple Intelligence",
     "url": "https://barrasso.me/posts/2026-04-27-iclaw-ai-agent-using-apple-intelligence/",
-    "points": 5,
+    "points": 6,
     "comments": 0,
     "date": "2026-04-28",
     "source": "HackerNews"
