@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Upsonic",
+    "url": "https://github.com/Upsonic/Upsonic",
+    "mentions": 3,
+    "total_points": 220,
+    "reason": "社媒热度高：3条提及，220总分"
+  },
+  {
+    "name": "connectonion",
+    "url": "https://github.com/openonion/connectonion",
+    "mentions": 3,
+    "total_points": 129,
+    "reason": "社媒热度高：3条提及，129总分"
+  },
+  {
+    "name": "graphify",
+    "url": "https://github.com/safishamsi/graphify",
+    "mentions": 3,
+    "total_points": 599,
+    "reason": "社媒热度高：3条提及，599总分"
+  }
+]
