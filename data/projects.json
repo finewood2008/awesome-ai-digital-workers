@@ -1053,5 +1053,39 @@
       "points_today": 15,
       "last_checked": "2026-05-03"
     }
+  },
+  {
+    "name": "graphify",
+    "url": "https://github.com/safishamsi/graphify",
+    "owner": "safishamsi",
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder into a queryable knowledge graph.",
+    "stars": 41901,
+    "language": "Python",
+    "topics": [
+      "knowledge-graph",
+      "ai-coding",
+      "codex",
+      "openclaw",
+      "claude-code",
+      "opencode"
+    ],
+    "discovered": "2026-05-04",
+    "category": "AI 工作流 / 自动化",
+    "license": "MIT",
+    "quality_score": 85,
+    "growth": {
+      "daily": 0,
+      "weekly": 0,
+      "monthly": 0,
+      "trend": "🆕 new"
+    },
+    "commits_7d": 0,
+    "commits_30d": 0,
+    "last_tracked": "2026-05-04",
+    "social_pulse": {
+      "mentions_today": 0,
+      "points_today": 0,
+      "last_checked": "2026-05-04"
+    }
   }
 ]
