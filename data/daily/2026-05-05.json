@@ -1,0 +1,110 @@
+[
+  {
+    "name": "open-design",
+    "url": "https://github.com/nexu-io/open-design",
+    "stars": 24269,
+    "description": "Local-first, open-source alternative to Anthropic's Claude Design. Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
+    "source": "GitHub Search",
+    "found_at": "2026-05-05",
+    "tags": ["design", "agent-tool", "multi-agent"]
+  },
+  {
+    "name": "openclaude",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "stars": 25829,
+    "description": "Runs anywhere, uses anything. Agent-agnostic harness.",
+    "source": "GitHub Search",
+    "found_at": "2026-05-05",
+    "tags": ["agent-harness", "openclaw-alternative"]
+  },
+  {
+    "name": "AionUi",
+    "url": "https://github.com/iOfficeAI/AionUi",
+    "stars": 23727,
+    "description": "Free, open-source 24/7 cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more.",
+    "source": "GitHub Search",
+    "found_at": "2026-05-05",
+    "tags": ["openclaw-ecosystem", "cowork-app"]
+  },
+  {
+    "name": "clawsweeper",
+    "url": "https://github.com/openclaw/clawsweeper",
+    "stars": 1543,
+    "description": "Scans all issues and PRs and suggests what to close, and why. Runs weekly.",
+    "source": "GitHub Search",
+    "found_at": "2026-05-05",
+    "tags": ["openclaw-org", "issue-management"]
+  },
+  {
+    "name": "deepclaude",
+    "url": "https://github.com/aattaran/deepclaude",
+    "stars": 1058,
+    "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro or any Anthropic-compatible backend. Same UX, 17x cheaper.",
+    "source": "GitHub Search",
+    "found_at": "2026-05-05",
+    "tags": ["agent-harness", "deepseek", "claude-code"]
+  },
+  {
+    "name": "open-slide",
+    "url": "https://github.com/1weiho/open-slide",
+    "stars": 948,
+    "description": "A slide framework built for agents.",
+    "source": "GitHub Search",
+    "found_at": "2026-05-05",
+    "tags": ["agent-tool", "presentation"]
+  },
+  {
+    "name": "codex-plusplus",
+    "url": "https://github.com/b-nnett/codex-plusplus",
+    "stars": 898,
+    "description": "Codex++ tweak system for the Codex desktop app.",
+    "source": "GitHub Search",
+    "found_at": "2026-05-05",
+    "tags": ["codex", "agent-tool"]
+  },
+  {
+    "name": "chromex",
+    "url": "https://github.com/GENEXIS-AI/chromex",
+    "stars": 820,
+    "description": "Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.",
+    "source": "GitHub Search",
+    "found_at": "2026-05-05",
+    "tags": ["codex", "chrome-extension"]
+  },
+  {
+    "name": "RunbookHermes",
+    "url": "https://github.com/Tommy-yw/RunbookHermes",
+    "stars": 504,
+    "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
+    "source": "GitHub Search",
+    "found_at": "2026-05-05",
+    "tags": ["hermes-ecosystem", "devops", "AIOps"]
+  },
+  {
+    "name": "hermes-labyrinth",
+    "url": "https://github.com/stainlu/hermes-labyrinth",
+    "stars": 252,
+    "description": "Read-only observability plugin for Hermes Agent: journeys, crossings, guideposts, and reports.",
+    "source": "GitHub Search",
+    "found_at": "2026-05-05",
+    "tags": ["hermes-ecosystem", "observability"]
+  },
+  {
+    "name": "hermes-agent-guide",
+    "url": "https://github.com/jwangkun/hermes-agent-guide",
+    "stars": 141,
+    "description": "Hermes Agent 从入门到精通中文指南，全书 16 册、30 万+ 字，覆盖安装部署到高阶开发。",
+    "source": "GitHub Search",
+    "found_at": "2026-05-05",
+    "tags": ["hermes-ecosystem", "documentation", "中文"]
+  },
+  {
+    "name": "QuantClaw-plugin",
+    "url": "https://github.com/SparkEngineAI/QuantClaw-plugin",
+    "stars": 101,
+    "description": "Plug-and-play task-type routing quantization plugin for OpenClaw.",
+    "source": "GitHub Search",
+    "found_at": "2026-05-05",
+    "tags": ["openclaw-ecosystem", "quantization"]
+  }
+]

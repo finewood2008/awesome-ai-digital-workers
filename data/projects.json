@@ -1087,5 +1087,101 @@
       "points_today": 599,
       "last_checked": "2026-05-04"
     }
+  },
+  {
+    "name": "open-design",
+    "url": "https://github.com/nexu-io/open-design",
+    "stars": "24269",
+    "quality_score": 80,
+    "growth_trend": "fast",
+    "description": "Local-first Claude Design alternative, agent-compatible design tool"
+  },
+  {
+    "name": "openclaude",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "stars": "25829",
+    "quality_score": 85,
+    "growth_trend": "fast",
+    "description": "Agent-agnostic harness - runs anywhere"
+  },
+  {
+    "name": "AionUi",
+    "url": "https://github.com/iOfficeAI/AionUi",
+    "stars": "23727",
+    "quality_score": 82,
+    "growth_trend": "fast",
+    "description": "Free cowork app for OpenClaw, Gemini CLI, Claude Code"
+  },
+  {
+    "name": "clawsweeper",
+    "url": "https://github.com/openclaw/clawsweeper",
+    "stars": "1543",
+    "quality_score": 70,
+    "growth_trend": "stable",
+    "description": "Automated issue/PR management for OpenClaw repos"
+  },
+  {
+    "name": "deepclaude",
+    "url": "https://github.com/aattaran/deepclaude",
+    "stars": "1058",
+    "quality_score": 72,
+    "growth_trend": "fast",
+    "description": "Claude Code agent loop with DeepSeek, 17x cheaper"
+  },
+  {
+    "name": "open-slide",
+    "url": "https://github.com/1weiho/open-slide",
+    "stars": "948",
+    "quality_score": 60,
+    "growth_trend": "new",
+    "description": "Slide framework built for agents"
+  },
+  {
+    "name": "codex-plusplus",
+    "url": "https://github.com/b-nnett/codex-plusplus",
+    "stars": "898",
+    "quality_score": 62,
+    "growth_trend": "new",
+    "description": "Tweak system for Codex desktop app"
+  },
+  {
+    "name": "chromex",
+    "url": "https://github.com/GENEXIS-AI/chromex",
+    "stars": "820",
+    "quality_score": 60,
+    "growth_trend": "new",
+    "description": "Codex-powered Chrome side-panel assistant"
+  },
+  {
+    "name": "RunbookHermes",
+    "url": "https://github.com/Tommy-yw/RunbookHermes",
+    "stars": "504",
+    "quality_score": 72,
+    "growth_trend": "new",
+    "description": "Hermes-native AIOps agent for incident response"
+  },
+  {
+    "name": "hermes-labyrinth",
+    "url": "https://github.com/stainlu/hermes-labyrinth",
+    "stars": "252",
+    "quality_score": 65,
+    "growth_trend": "new",
+    "description": "Hermes observability plugin"
+  },
+  {
+    "name": "hermes-agent-guide",
+    "url": "https://github.com/jwangkun/hermes-agent-guide",
+    "stars": "141",
+    "quality_score": 55,
+    "growth_trend": "new",
+    "description": "Hermes Agent Chinese guide"
+  },
+  {
+    "name": "QuantClaw-plugin",
+    "url": "https://github.com/SparkEngineAI/QuantClaw-plugin",
+    "stars": "101",
+    "quality_score": 58,
+    "growth_trend": "new",
+    "description": "Task-type routing quantization plugin for OpenClaw"
   }
 ]
