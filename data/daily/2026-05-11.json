@@ -1,0 +1,98 @@
+[
+  {
+    "name": "mnemosyne",
+    "url": "https://github.com/AxDSan/mnemosyne",
+    "owner": "AxDSan",
+    "description": "The Zero-Dependency, Sub-Millisecond AI Memory System for Hermes Agents",
+    "stars": 211,
+    "language": "Python",
+    "topics": ["agents", "ai", "hermes", "hermes-agent", "ml", "nousresearch"],
+    "discovered": "2026-05-11",
+    "category": "Hermes / OpenClaw 生态",
+    "source": "gh CLI Search"
+  },
+  {
+    "name": "hermeshq",
+    "url": "https://github.com/jpalmae/hermeshq",
+    "owner": "jpalmae",
+    "description": "HermesHQ is a Docker-first control plane for running and operating multiple Hermes Agent instances from one web application.",
+    "stars": 6,
+    "language": "Python",
+    "topics": [],
+    "discovered": "2026-05-11",
+    "category": "Hermes / OpenClaw 生态",
+    "source": "gh CLI Search"
+  },
+  {
+    "name": "hermes-s2s",
+    "url": "https://github.com/baladithyab/hermes-s2s",
+    "owner": "baladithyab",
+    "description": "Configurable speech-to-speech for Hermes Agent — realtime duplex (Gemini Live, GPT-4o Realtime), cascaded pipelines, and full-local stacks.",
+    "stars": 0,
+    "language": "Python",
+    "topics": [],
+    "discovered": "2026-05-11",
+    "category": "Hermes / OpenClaw 生态",
+    "source": "gh CLI Search"
+  },
+  {
+    "name": "free-claude-code",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "owner": "Alishahryar1",
+    "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+    "stars": 23546,
+    "language": "Python",
+    "topics": [],
+    "discovered": "2026-05-11",
+    "category": "Agent 框架 / Harness",
+    "source": "gh CLI Search"
+  },
+  {
+    "name": "vt-claw",
+    "url": "https://github.com/viitrix/vt-claw",
+    "owner": "viitrix",
+    "description": "以硬件技能为核心、面向行业用户的 Claw 软件 — 安全隔离 · 透明可控 · 主动智能",
+    "stars": 24,
+    "language": "TypeScript",
+    "topics": [],
+    "discovered": "2026-05-11",
+    "category": "OpenClaw 生态",
+    "source": "gh CLI Search"
+  },
+  {
+    "name": "DevSquad",
+    "url": "https://github.com/lulin70/DevSquad",
+    "owner": "lulin70",
+    "description": "Multi-Role AI Task Orchestrator. One task in, multi-role AI collaboration, one conclusion out. 7 core roles, real LLM backend (OpenAI/Anthropic), CLI + MCP + Python API.",
+    "stars": 1,
+    "language": "Python",
+    "topics": [],
+    "discovered": "2026-05-11",
+    "category": "Agent 框架 / Harness",
+    "source": "gh CLI Search"
+  },
+  {
+    "name": "hermes-roleplay-engine",
+    "url": "https://github.com/Lzh-xbccz/hermes-roleplay-engine",
+    "owner": "Lzh-xbccz",
+    "description": "SillyTavern 角色扮演引擎 v4.0 — 基于 Hermes Agent 的 AI 角色扮演完整框架",
+    "stars": 4,
+    "language": "TypeScript",
+    "topics": [],
+    "discovered": "2026-05-11",
+    "category": "Hermes / OpenClaw 生态",
+    "source": "gh CLI Search"
+  },
+  {
+    "name": "soccer-lottery",
+    "url": "https://github.com/liming199364/soccer-lottery",
+    "owner": "liming199364",
+    "description": "足彩预测全流程 AI Skill — 赛事抓取、数据分析到推荐，兼容 Coze/Claude Code/OpenClaw",
+    "stars": 9,
+    "language": "TypeScript",
+    "topics": [],
+    "discovered": "2026-05-11",
+    "category": "OpenClaw 生态",
+    "source": "gh CLI Search"
+  }
+]
