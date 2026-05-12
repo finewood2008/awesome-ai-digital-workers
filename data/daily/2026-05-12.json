@@ -1,0 +1,50 @@
+[
+  {
+    "name": "claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "owner": "thedotmack",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "stars": 74890,
+    "language": "TypeScript",
+    "topics": [],
+    "discovered": "2026-05-12",
+    "category": "Agent Memory / Context",
+    "source": "gh CLI Search"
+  },
+  {
+    "name": "zeroclaw",
+    "url": "https://github.com/zeroclaw-labs/zeroclaw",
+    "owner": "zeroclaw-labs",
+    "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀",
+    "stars": 31252,
+    "language": "Rust",
+    "topics": ["agent", "ai", "rust"],
+    "discovered": "2026-05-12",
+    "category": "OpenClaw Ecosystem",
+    "source": "gh CLI Search"
+  },
+  {
+    "name": "awesome-openclaw-usecases",
+    "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "owner": "hesamsheikh",
+    "description": "A community collection of OpenClaw use cases for making life easier.",
+    "stars": 30928,
+    "language": "Markdown",
+    "topics": [],
+    "discovered": "2026-05-12",
+    "category": "OpenClaw Ecosystem",
+    "source": "gh CLI Search"
+  },
+  {
+    "name": "linclaw",
+    "url": "https://github.com/rozone/linclaw",
+    "owner": "rozone",
+    "description": "the first mobile app built for OpenClaw — turning your phone into a real-time control center for AI digital workers. No terminal, no code, no jargon.",
+    "stars": 0,
+    "language": "TypeScript",
+    "topics": [],
+    "discovered": "2026-05-12",
+    "category": "OpenClaw Ecosystem",
+    "source": "gh CLI Search"
+  }
+]
