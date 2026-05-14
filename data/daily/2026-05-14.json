@@ -1,0 +1,122 @@
+[
+  {
+    "name": "awesome-openclaw-usecases-zh",
+    "url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
+    "owner": "AlexAnys",
+    "description": "🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好",
+    "stars": 4142,
+    "language": "Markdown",
+    "topics": [],
+    "discovered": "2026-05-14",
+    "category": "OpenClaw Ecosystem",
+    "source": "gh CLI Search"
+  },
+  {
+    "name": "awesome-openclaw-skills-zh",
+    "url": "https://github.com/clawdbot-ai/awesome-openclaw-skills-zh",
+    "owner": "clawdbot-ai",
+    "description": "OpenClaw 中文官方技能库 | 翻译自 Clawdbot 官方技能，按场景分类整理，支持中文自然语言调用",
+    "stars": 4034,
+    "language": "Markdown",
+    "topics": [],
+    "discovered": "2026-05-14",
+    "category": "OpenClaw Ecosystem",
+    "source": "gh CLI Search"
+  },
+  {
+    "name": "openclaw-master-skills",
+    "url": "https://github.com/LeoYeAI/openclaw-master-skills",
+    "owner": "LeoYeAI",
+    "description": "🧠 Curated collection of 1209+ best OpenClaw skills — weekly updated by MyClaw.ai",
+    "stars": 1987,
+    "language": "Python",
+    "topics": [],
+    "discovered": "2026-05-14",
+    "category": "OpenClaw Ecosystem",
+    "source": "gh CLI Search"
+  },
+  {
+    "name": "ZeroClaw-Android",
+    "url": "https://github.com/Natfii/ZeroClaw-Android",
+    "owner": "Natfii",
+    "description": "Run AI agents 24/7 on your Android phone. Native Rust core, 25+ providers, encrypted key storage, plugin browser, Material You UI. Self-hosted alternative to Mac Mini setups.",
+    "stars": 287,
+    "language": "Rust",
+    "topics": [],
+    "discovered": "2026-05-14",
+    "category": "OpenClaw Ecosystem",
+    "source": "gh CLI Search"
+  },
+  {
+    "name": "opensquilla",
+    "url": "https://github.com/opensquilla/opensquilla",
+    "owner": "opensquilla",
+    "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
+    "stars": 367,
+    "language": "Python",
+    "topics": [],
+    "discovered": "2026-05-14",
+    "category": "Agent 框架",
+    "source": "gh CLI Search"
+  },
+  {
+    "name": "hermes-agent-mission-control",
+    "url": "https://github.com/Agent-3-7/hermes-agent-mission-control",
+    "owner": "Agent-3-7",
+    "description": "Mission Control Kanban for your Hermes Agent",
+    "stars": 570,
+    "language": "TypeScript",
+    "topics": [],
+    "discovered": "2026-05-14",
+    "category": "Hermes / OpenClaw 生态",
+    "source": "gh CLI Search"
+  },
+  {
+    "name": "OpenClaw-AWD-Arena",
+    "url": "https://github.com/LYiHub/OpenClaw-AWD-Arena",
+    "owner": "LYiHub",
+    "description": "An automated Attack-with-Defense platform where LLM-powered agents compete in real-time.",
+    "stars": 183,
+    "language": "Python",
+    "topics": [],
+    "discovered": "2026-05-14",
+    "category": "AI 工作流 / 自动化",
+    "source": "gh CLI Search"
+  },
+  {
+    "name": "oh-my-hermes",
+    "url": "https://github.com/Salomondiei08/oh-my-hermes",
+    "owner": "Salomondiei08",
+    "description": "An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent",
+    "stars": 358,
+    "language": "Shell",
+    "topics": [],
+    "discovered": "2026-05-14",
+    "category": "Hermes / OpenClaw 生态",
+    "source": "gh CLI Search"
+  },
+  {
+    "name": "hermes-desktop-os1",
+    "url": "https://github.com/nickvasilescu/hermes-desktop-os1",
+    "owner": "nickvasilescu",
+    "description": "Hermes Desktop OS1 — desktop companion for Hermes Agent",
+    "stars": 400,
+    "language": "Typescript",
+    "topics": [],
+    "discovered": "2026-05-14",
+    "category": "Hermes / OpenClaw 生态",
+    "source": "gh CLI Search"
+  },
+  {
+    "name": "iai-mcp",
+    "url": "https://github.com/CodeAbra/iai-mcp",
+    "owner": "CodeAbra",
+    "description": "MCP integration for AI agents",
+    "stars": 118,
+    "language": "TypeScript",
+    "topics": [],
+    "discovered": "2026-05-14",
+    "category": "AI 工作流 / 自动化",
+    "source": "gh CLI Search"
+  }
+]
