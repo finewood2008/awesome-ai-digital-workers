@@ -1,0 +1,83 @@
+[
+  {
+    "name": "openakita",
+    "url": "https://github.com/openakita/openakita",
+    "owner": "openakita",
+    "description": "An open-source AI assistant framework with skills and agent architecture",
+    "stars": 1749,
+    "language": "Python",
+    "topics": [],
+    "discovered": "2026-05-15",
+    "category": "Agent Framework / OpenClaw 生态",
+    "license": "AGPL-3.0",
+    "quality_score": 60,
+    "growth": {
+      "daily": 0,
+      "weekly": 0,
+      "monthly": 0,
+      "trend": "📊 new"
+    },
+    "commits_7d": 0,
+    "commits_30d": 0,
+    "last_tracked": "2026-05-15",
+    "social_pulse": {
+      "mentions_today": 0,
+      "points_today": 0,
+      "last_checked": "2026-05-15"
+    }
+  },
+  {
+    "name": "milady",
+    "url": "https://github.com/milady-ai/milady",
+    "owner": "milady-ai",
+    "description": "terminally online - AI agent framework with built-in personality layer",
+    "stars": 396,
+    "language": "TypeScript",
+    "topics": [],
+    "discovered": "2026-05-15",
+    "category": "Agent Framework",
+    "license": "MIT",
+    "quality_score": 35,
+    "growth": {
+      "daily": 0,
+      "weekly": 0,
+      "monthly": 0,
+      "trend": "📊 new"
+    },
+    "commits_7d": 0,
+    "commits_30d": 100,
+    "last_tracked": "2026-05-15",
+    "social_pulse": {
+      "mentions_today": 0,
+      "points_today": 0,
+      "last_checked": "2026-05-15"
+    }
+  },
+  {
+    "name": "OpenSkills",
+    "url": "https://github.com/LingyiChen-AI/OpenSkills",
+    "owner": "LingyiChen-AI",
+    "description": "An open-source Agent Skill framework implementing progressive disclosure architecture",
+    "stars": 68,
+    "language": "Python",
+    "topics": [],
+    "discovered": "2026-05-15",
+    "category": "Skills / OpenClaw 生态",
+    "license": "Apache-2.0",
+    "quality_score": 20,
+    "growth": {
+      "daily": 0,
+      "weekly": 0,
+      "monthly": 0,
+      "trend": "📊 new"
+    },
+    "commits_7d": 0,
+    "commits_30d": 0,
+    "last_tracked": "2026-05-15",
+    "social_pulse": {
+      "mentions_today": 0,
+      "points_today": 0,
+      "last_checked": "2026-05-15"
+    }
+  }
+]
